@@ -1,34 +1,66 @@
-# Data Strategy Impact Dashboard (Model Department X)
+                      DATA STRATEGY IMPACT DASHBOARD
+                      =================================
 
-A reusable, synthetic example to help public sector data leaders
-explain and evidence data strategy impact in federated organisations.
+                         [ Inputs in Excel / HTML ]
+                                      |
+                                      v
+                     +---------------------------------+
+                     |  Level 1: Foundational enablers |
+                     +---------------------------------+
+                     | Strategy                        |
+                     | Shared leadership               |
+                     | Foundation                      |
+                     | Community                       |
+                     | Engagement                      |
+                     |                                 |
+                     | Status: On track / Off track    |
+                     |          / Needs focus          |
+                     +-----------------+---------------+
+                                       |
+                                       |  Foundations shape how
+                                       |  the system behaves
+                                       v
+                     +---------------------------------+
+                     |   Level 2: Data maturity        |
+                     +---------------------------------+
+                     | Uses                            |
+                     | Data                            |
+                     | Leadership                      |
+                     | Culture                         |
+                     | Tools                           |
+                     | Skills                          |
+                     |                                 |
+                     | Maturity: Level 1 to Level 5    |
+                     +-----------------+---------------+
+                                       |
+                                       |  Maturity enables
+                                       |  public value
+                                       v
+                     +---------------------------------+
+                     |   Level 3: Outcomes             |
+                     +---------------------------------+
+                     | Financial savings               |
+                     | User satisfaction               |
+                     | Efficiency gains                |
+                     | Time savings                    |
+                     | Public good impact              |
+                     +-----------------+---------------+
+                                       |
+                     +-----------------+---------------------------+
+                     |                                             |
+                     v                                             v
+        +-----------------------------+             +-----------------------------+
+        | Executive decision box      |             | Measurement methods         |
+        +-----------------------------+             +-----------------------------+
+        | Top 3 asks                  |             | Reporting rhythms           |
+        | Dependencies                |             | Org insight                 |
+        | Trade offs                  |             | Adoption and capability     |
+        | Confidence levels           |             | System behaviour indicators |
+        | Forward look priorities     |             | Public value                |
+        +-----------------------------+             | Benefits realisation        |
+                                                    +-----------------------------+
 
-## What this repo contains
-
-- **Done - Conceptual HTML dashboard**
-  `html/model_department_dashboard.html` – ready for demos, training and workshops.
-
-- **Next - Excel input model (template)**
-  `templates/excel/data_strategy_impact_template.xlsx` – single source of truth
-  for Level 1, Level 2, Level 3, executive decisions and measurement methods.
-
-- **Next - Excel → PowerPoint generator (Python)**
-  `scripts/excel_to_ppt.py` – turns a completed Excel template into a
-  board-ready slide deck.
-
-## Causal model 
-
-(Embed `docs/img/architecture-diagram.png` here.)
-
-## Who this is for
-
-- CDOs and heads of data in federated public sector organisations  
-- Strategy, portfolio, finance and performance teams  
-- Anyone trying to make “data strategy impact” visible and discussable
-
-## Status
-
-- ✅ HTML conceptual dashboard  
-- 🟡 Excel template (MVP)  
-- 🟡 PowerPoint generator script (MVP)  
-- ⬜ Streamlit app (future)
+ Legend:
+ - Level 1: things you directly control
+ - Level 2: how the system behaves (maturity)
+ - Level 3: public value that can be evidenced
