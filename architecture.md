@@ -1,19 +1,6 @@
                      DATA STRATEGY IMPACT DASHBOARD
                      =================================
 
-                         [ Data Sources Feeding Model ]
-                         --------------------------------
-                         | • Excel inputs (4 tabs)       |
-                         | • Surveys (staff, stakeholders)|
-                         | • Operational systems data     |
-                         | • Governance logs & RAGs       |
-                         | • Community & training metrics |
-                         | • Open data / API analytics    |
-                         | • Benefits evidence (PIR, CBA) |
-                         --------------------------------
-                                      |
-                                      v
-
                      +-------------------------------------+
                      |  Level 1: Foundational enablers     |
                      +-------------------------------------+
@@ -45,10 +32,10 @@
                      | • Skills                            |
                      |                                     |
                      | Source inputs:                      |
-                     | - Annual maturity assessment         |
-                     | - Capability surveys                 |
-                     | - Tooling adoption data              |
-                     | - Leadership engagement evidence     |
+                     | - Annual maturity assessment        |
+                     | - Capability surveys                |
+                     | - Tooling adoption data             |
+                     | - Leadership engagement evidence    |
                      +---------------------+---------------+
                                            |
                                            |  Maturity influences
@@ -68,7 +55,7 @@
                      | - Benefits realisation logs         |
                      | - Service user analytics            |
                      | - Process time studies              |
-                     | - Cross-government collaborations   |
+                     | - Cross-government collaboration    |
                      +---------------------+---------------+
                                            |
                          +-----------------+--------------------------+
@@ -93,4 +80,3 @@
  - Level 1 = Inputs you directly control
  - Level 2 = System maturity shaped by Level 1
  - Level 3 = Outcomes influenced by Level 2 and the wider system
- - Data sources feed evidence into all three levels
