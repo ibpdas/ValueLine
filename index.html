@@ -169,7 +169,7 @@
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 10px;
-      margin-bottom: 12px;
+      margin-bottom: 0;
     }
 
     .level-pill {
@@ -224,7 +224,7 @@
       flex-wrap: wrap;
     }
 
-    /* New status pills for Level 1 */
+    /* Status pills for Level 1 */
     .status-pill {
       display: inline-flex;
       align-items: center;
@@ -444,7 +444,7 @@
         </div>
       </div>
 
-      <!-- Indicator legend -->
+      <!-- Indicator legend in hero -->
       <div class="legend">
         <span class="badge badge-leading">Leading</span>
         <span class="badge badge-signal">Signal</span>
@@ -461,19 +461,55 @@
       </div>
     </div>
 
-    <div class="levels-legend">
-      <div class="level-pill">
-        <span>Level 1 - Build the foundational enablers</span>
-        <span>Foundational conditions under direct control.</span>
+    <!-- Template note (light grey background) -->
+    <div style="
+      background:#f8f9fa;
+      border:1px solid #e5e7eb;
+      padding:12px 14px;
+      border-radius:8px;
+      font-size:13px;
+      color:#444;
+      margin-bottom:16px;">
+      Three level causal model showing how Level 1 foundational enablers, 
+      Level 2 maturity and Level 3 outcomes combine to demonstrate data strategy 
+      impact in a federated organisation.
+    </div>
+
+    <!-- Levels legend (soft blue background) -->
+    <div style="
+      background:#f0f6ff;
+      border:1px solid #d2e3ff;
+      padding:14px 18px;
+      border-radius:8px;
+      margin-bottom:16px;">
+      <div class="levels-legend">
+        <div class="level-pill" style="background:white;">
+          <span>Level 1 - Build the foundational enablers</span>
+          <span>Conditions directly under our control.</span>
+        </div>
+        <div class="level-pill" style="background:white;">
+          <span>Level 2 - Enable maturity</span>
+          <span>Maturity across uses, data, leadership, culture, tools and skills.</span>
+        </div>
+        <div class="level-pill" style="background:white;">
+          <span>Level 3 - Influence outcomes</span>
+          <span>Public value outcomes shaped by Levels 1 and 2.</span>
+        </div>
       </div>
-      <div class="level-pill">
-        <span>Level 2 - Enable maturity</span>
-        <span>Data maturity across uses, data, leadership, culture, tools and skills.</span>
-      </div>
-      <div class="level-pill">
-        <span>Level 3 - Influence outcomes</span>
-        <span>Public value outcomes influenced by levels 1 and 2.</span>
-      </div>
+    </div>
+
+    <!-- Indicator legend (white with border) -->
+    <div style="
+      background:white;
+      border:1px solid #e5e7eb;
+      padding:10px 14px;
+      border-radius:8px;
+      font-size:11px;
+      color:#555;
+      margin-bottom:20px;">
+      <span class="badge badge-leading">LEADING</span> Early indicators of enabling conditions<br>
+      <span class="badge badge-signal">SIGNAL</span> Mid-cycle indicators of system behaviour<br>
+      <span class="badge badge-lagging">LAGGING</span> Outcome indicators of realised value
     </div>
 
     <div class="layout">
