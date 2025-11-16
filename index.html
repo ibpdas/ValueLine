@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Model Department - Data strategy impact in a federated organisation</title>
+  <title>Model Department X - Data strategy impact in a federated organisation</title>
   <style>
     :root {
       --bg: #ffffff;
@@ -53,20 +53,74 @@
     .hero {
       background: #f3f4f6;
       border: 1px solid #e5e7eb;
-      padding: 24px 28px;
+      padding: 20px 24px;
       border-radius: 8px;
       margin-bottom: 16px;
     }
 
     .hero h1 {
-      margin: 0 0 6px 0;
-      font-size: 28px;
+      margin: 0 0 8px 0;
+      font-size: 26px;
     }
 
     .hero-sub {
       margin: 0;
       font-size: 14px;
       color: #555555;
+    }
+
+    /* Pills for roadmap info */
+    .pill {
+      background:#eef2f7;
+      border:1px solid #d1d5db;
+      padding:4px 10px;
+      border-radius:12px;
+      font-size:12px;
+      font-weight:600;
+    }
+
+    /* Causal chain */
+    .causal-container {
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      gap:14px;
+      margin-top:14px;
+      margin-bottom:8px;
+      flex-wrap:wrap;
+    }
+
+    .causal-item {
+      text-align:center;
+      font-size:12px;
+      color:#444;
+      min-width:90px;
+    }
+
+    .causal-icon {
+      font-size:22px;
+      margin-bottom:4px;
+    }
+
+    .causal-label strong {
+      font-size:12px;
+    }
+
+    .causal-arrow {
+      font-size:18px;
+      color:#777;
+      margin:0 4px;
+    }
+
+    /* Legend (compact) */
+    .legend {
+      text-align:center;
+      font-size:11px;
+      margin-top:8px;
+    }
+
+    .legend .badge {
+      margin-right:6px;
     }
 
     /* Overall position strip */
@@ -364,12 +418,38 @@
     <!-- HERO BANNER -->
     <div class="hero">
       <h1>Model Department X - Data strategy impact in a federated organisation</h1>
-      <p class="hero-sub">
-        Public sector data leaders | Synthetic example | Reusable Excel, PowerPoint, Streamlit and HTML template available on request
-      </p>
-      <p class="hero-sub">
-        Year 2 of 5 Year Roadmap · Period 7 of Year 2 · Financial Year 2025-26
-      </p>
+
+      <!-- Roadmap pills -->
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:6px;">
+        <div class="pill">Roadmap: Year 2 of 5</div>
+        <div class="pill">Period 7</div>
+        <div class="pill">Financial year 2025-26</div>
+      </div>
+
+      <!-- Causal chain visual -->
+      <div class="causal-container">
+        <div class="causal-item">
+          <div class="causal-icon">📦</div>
+          <div class="causal-label">Level 1<br><strong>Foundational enablers</strong></div>
+        </div>
+        <div class="causal-arrow">→</div>
+        <div class="causal-item">
+          <div class="causal-icon">📊</div>
+          <div class="causal-label">Level 2<br><strong>Maturity</strong></div>
+        </div>
+        <div class="causal-arrow">→</div>
+        <div class="causal-item">
+          <div class="causal-icon">🎯</div>
+          <div class="causal-label">Level 3<br><strong>Outcomes</strong></div>
+        </div>
+      </div>
+
+      <!-- Indicator legend -->
+      <div class="legend">
+        <span class="badge badge-leading">Leading</span>
+        <span class="badge badge-signal">Signal</span>
+        <span class="badge badge-lagging">Lagging</span>
+      </div>
     </div>
 
     <!-- OVERALL POSITION STRIP -->
@@ -381,14 +461,9 @@
       </div>
     </div>
 
-    <p class="template-note">
-      Three level causal model showing how Level 1 conditions, Level 2 maturity and Level 3 outcomes
-      combine to demonstrate data strategy impact in a federated organisation.
-    </p>
-
     <div class="levels-legend">
       <div class="level-pill">
-        <span>Level 1 - Get the basics right</span>
+        <span>Level 1 - Build the foundational enablers</span>
         <span>Foundational conditions under direct control.</span>
       </div>
       <div class="level-pill">
@@ -401,20 +476,14 @@
       </div>
     </div>
 
-    <div style="font-size:11px; color:#555; margin:8px 0 16px;">
-      <span class="badge badge-leading">LEADING</span> Early indicators of enabling conditions<br>
-      <span class="badge badge-signal">SIGNAL</span> Mid-cycle indicators of system behaviour<br>
-      <span class="badge badge-lagging">LAGGING</span> Outcome indicators of realised value
-    </div>
-
     <div class="layout">
       <!-- LEFT COLUMN -->
       <div>
         <!-- LEVEL 1 -->
         <div class="card" style="border-top:3px solid #22c55e;">
-          <div class="card-title">Get the basics right (Level 1)</div>
+          <div class="card-title">Build the foundational enablers (Level 1)</div>
           <div class="card-subtitle">
-            Foundational conditions we directly control in a federated department.
+            Conditions we directly control in a federated department.
           </div>
 
           <div class="pillars-grid">
