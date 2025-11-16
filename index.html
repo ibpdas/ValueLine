@@ -42,6 +42,26 @@
       margin: 4px 0 16px;
     }
 
+    /* Hero banner (Option A) */
+    .hero {
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+      padding: 24px 28px;
+      border-radius: 8px;
+      margin-bottom: 24px;
+    }
+
+    .hero h1 {
+      margin: 0 0 6px 0;
+      font-size: 28px;
+    }
+
+    .hero-sub {
+      margin: 0;
+      font-size: 14px;
+      color: #555555;
+    }
+
     .layout {
       display: grid;
       grid-template-columns: 2.1fr 1.2fr;
@@ -300,14 +320,22 @@
 
 <body>
   <div class="page">
-    <h1>Model Department X - Data strategy impact in a federated organisation</h1>
-    <div class="subtitle">Public sector data leaders | Synthetic example | Reuseable Excel, PowerPoint, Streamlit and HTML template available on request</div>
-    <div class="subtitle">Year 2 of 5 Year Roadmap. Period 7 of Year 2 - Financial Year 2025-26</div>
 
-    <div class="subtitle">
+    <!-- HERO BANNER -->
+    <div class="hero">
+      <h1>Model Department X - Data strategy impact in a federated organisation</h1>
+      <p class="hero-sub">
+        Public sector data leaders | Synthetic example | Reusable Excel, PowerPoint, Streamlit and HTML template available on request
+      </p>
+      <p class="hero-sub">
+        Year 2 of 5 Year Roadmap · Period 7 of Year 2 · Financial Year 2025-26
+      </p>
+    </div>
+
+    <p class="template-note">
       Three level causal model showing how Level 1 conditions, Level 2 maturity and Level 3 outcomes
       combine to demonstrate data strategy impact in a federated organisation.
-    </div>
+    </p>
 
     <div class="levels-legend">
       <div class="level-pill">
@@ -586,7 +614,7 @@
           </div>
 
           <div class="impact-item">
-            <div class="impact-item-title">Land data model</div>
+            <div class="impact-item-title">Land Data Model</div>
             <div class="impact-item-text">
               Integrated land use data model reconciled competing demands and supported more consistent and transparent policy choices.
             </div>
@@ -663,7 +691,7 @@
               <strong>System behaviour indicators</strong><br>
               ✓ Dataset and model reuse rate
               <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Reduction of catalouging duplication across ALBs and directorates
+              ✓ Reduction of cataloguing duplication across ALBs and directorates
               <span class="badge badge-lagging">LAGGING</span><br>
               ✓ Adoption of standards, APIs and shared foundations
               <span class="badge badge-leading">LEADING</span><br><br>
@@ -671,7 +699,7 @@
               <strong>Public value</strong><br>
               ✓ Open data and API service analytics
               <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Requests for adivce, support and collaboration
+              ✓ Requests for advice, support and collaboration
               <span class="badge badge-signal">SIGNAL</span><br>
               ✓ External recognition (audit reports, awards)
               <span class="badge badge-lagging">LAGGING</span><br><br>
