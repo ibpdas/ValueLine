@@ -1,12 +1,26 @@
-![Public Sector](https://img.shields.io/badge/Public%20Sector-Data%20Leadership-blue)
-![Reusable Template](https://img.shields.io/badge/Reusable-Template-success)
-![Talk Included](https://img.shields.io/badge/Talk-Included-blueviolet)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![AI Confident](https://img.shields.io/badge/Framework-AI%20Confident-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Sector-Data%20Leadership-blue" alt="Public Sector Data Leadership" />
+  <img src="https://img.shields.io/badge/Reusable-Template-success" alt="Reusable Template" />
+  <img src="https://img.shields.io/badge/Talk-Included-blueviolet" alt="Talk Included" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
+  <img src="https://img.shields.io/badge/Framework-AI%20Confident-brightgreen" alt="AI Confident Framework" />
+</p>
 
+<h1 align="center">Data Strategy Impact Dashboard</h1>
 
-# Data Strategy Impact Dashboard 
-A simple three level framework to help public sector data leaders explain, track and demonstrate data strategy impact in complex or federated organisations.
+<p align="center">
+  A simple three level framework to help public sector data leaders explain, track and demonstrate 
+  data strategy impact in complex or federated organisations.
+</p>
+
+---
+
+> ### 📌 Concept in 30 seconds
+> A reusable model that helps public sector data leaders explain **how data strategy activity (Level 1)**  
+> leads to **data maturity (Level 2)** and ultimately **public value outcomes (Level 3)**.  
+>  
+> It creates a **clear causal chain**, provides a **repeatable dashboard**, and enables better  
+> **executive conversations, prioritisation and investment decisions** across federated organisations.
 
 ---
 
@@ -157,12 +171,10 @@ https://www.brighttalk.com/webcast/12405/602410
 
 In this session, Bandhu explains why proving the value of data work is difficult in practice — especially in federated public sector organisations. He introduces the **Value Matrix**, a practical extension of the Treasury’s Five Case Model that incorporates engagement and change as essential enablers of impact.
 
-Drawing on 15+ years across finance, policy and data, Bandhu discusses:
+Drawing on 15+ years across finance, policy and data, Bandhu discusses:  
 - why ROI and cost-benefit analysis only capture part of data’s value  
 - how to articulate multi-dimensional benefits stakeholders can recognise  
 - how to build high impact data business cases that secure investment  
 - lessons from Defra and HM Treasury on creating enterprise level value  
 
 This dashboard builds on the same principles: making data strategy, maturity and public value **visible, explainable and fundable** in complex organisations.
-
-
