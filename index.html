@@ -28,6 +28,13 @@
 
     .page { max-width: 1400px; margin: 0 auto; }
 
+    .page-break {
+      page-break-before: always;
+      margin-top: 40px;
+      border-top: 2px dashed #e5e7eb;
+      padding-top: 24px;
+    }
+
     h1 { margin: 0 0 4px; font-size: 32px; }
 
     .subtitle {
@@ -42,13 +49,13 @@
       margin: 4px 0 16px;
     }
 
-    /* Hero banner (Option A) */
+    /* Hero banner */
     .hero {
       background: #f3f4f6;
       border: 1px solid #e5e7eb;
       padding: 24px 28px;
       border-radius: 8px;
-      margin-bottom: 24px;
+      margin-bottom: 16px;
     }
 
     .hero h1 {
@@ -60,6 +67,21 @@
       margin: 0;
       font-size: 14px;
       color: #555555;
+    }
+
+    /* Overall position strip */
+    .summary-strip {
+      background: #f9fafb;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+
+    .summary-strip-title {
+      font-weight: 700;
+      margin-bottom: 4px;
     }
 
     .layout {
@@ -148,20 +170,31 @@
       flex-wrap: wrap;
     }
 
-    .rag-pill {
+    /* New status pills for Level 1 */
+    .status-pill {
       display: inline-flex;
       align-items: center;
-      gap: 4px;
-      padding: 2px 8px;
+      padding: 3px 10px;
       border-radius: 999px;
       font-size: 11px;
       font-weight: 600;
-      color: #ffffff;
+      border: 1px solid #e5e7eb;
     }
 
-    .rag-green { background: var(--rag-green); }
-    .rag-amber { background: var(--rag-amber); }
-    .rag-red   { background: var(--rag-red); }
+    .status-ontrack {
+      background: #dcfce7;
+      color: #166534;
+    }
+
+    .status-needfocus {
+      background: #fef9c3;
+      color: #92400e;
+    }
+
+    .status-offtrack {
+      background: #fee2e2;
+      color: #991b1b;
+    }
 
     .pillar-body {
       font-size: 11px;
@@ -275,6 +308,13 @@
       white-space: nowrap;
     }
 
+    .metric-plan {
+      font-size: 11px;
+      color: #6b7280;
+      margin-left: 4px;
+      white-space: nowrap;
+    }
+
     .impact-block-title {
       font-size: 14px;
       font-weight: 700;
@@ -319,8 +359,8 @@
 </head>
 
 <body>
+  <!-- PAGE 1 -->
   <div class="page">
-
     <!-- HERO BANNER -->
     <div class="hero">
       <h1>Model Department X - Data strategy impact in a federated organisation</h1>
@@ -332,6 +372,15 @@
       </p>
     </div>
 
+    <!-- OVERALL POSITION STRIP -->
+    <div class="summary-strip">
+      <div class="summary-strip-title">Overall position this period</div>
+      <div>
+        On track overall, but constrained by legacy platforms and uneven adoption of data responsibilities across ALBs.
+        Key risk is that slowing progress on foundational fixes delays maturity improvements and outcome benefits in later years.
+      </div>
+    </div>
+
     <p class="template-note">
       Three level causal model showing how Level 1 conditions, Level 2 maturity and Level 3 outcomes
       combine to demonstrate data strategy impact in a federated organisation.
@@ -340,7 +389,7 @@
     <div class="levels-legend">
       <div class="level-pill">
         <span>Level 1 - Get the basics right</span>
-        <span>Essential foundational conditions needed to drive Level 2 and 3 outomes.</span>
+        <span>Foundational conditions under direct control.</span>
       </div>
       <div class="level-pill">
         <span>Level 2 - Enable maturity</span>
@@ -365,7 +414,7 @@
         <div class="card" style="border-top:3px solid #22c55e;">
           <div class="card-title">Get the basics right (Level 1)</div>
           <div class="card-subtitle">
-            Cross-cutting, essential conditions co-created with federated teams (Illustrative).
+            Foundational conditions we directly control in a federated department.
           </div>
 
           <div class="pillars-grid">
@@ -375,7 +424,7 @@
                   Strategy
                   <span class="badge badge-leading">LEADING</span>
                 </div>
-                <span class="rag-pill rag-green"><span>●</span> Green</span>
+                <span class="status-pill status-ontrack">On track</span>
               </div>
               <div class="pillar-body">
                 <strong>Going well:</strong> Clear cross cutting data priorities and roadmap agreed at senior level.<br>
@@ -389,7 +438,7 @@
                   Shared leadership
                   <span class="badge badge-leading">LEADING</span>
                 </div>
-                <span class="rag-pill rag-amber"><span>●</span> Amber</span>
+                <span class="status-pill status-needfocus">Need focus</span>
               </div>
               <div class="pillar-body">
                 <strong>Going well:</strong> Data owner and senior sponsor roles exist across key business areas.<br>
@@ -403,7 +452,7 @@
                   Foundation
                   <span class="badge badge-leading">LEADING</span>
                 </div>
-                <span class="rag-pill rag-red"><span>●</span> Red</span>
+                <span class="status-pill status-offtrack">Off track</span>
               </div>
               <div class="pillar-body">
                 <strong>Going well:</strong> Some common platforms, reference data and standards defined.<br>
@@ -417,7 +466,7 @@
                   Community
                   <span class="badge badge-leading">LEADING</span>
                 </div>
-                <span class="rag-pill rag-amber"><span>●</span> Amber</span>
+                <span class="status-pill status-needfocus">Need focus</span>
               </div>
               <div class="pillar-body">
                 <strong>Going well:</strong> Active data and analytics communities of practice with strong peer networks.<br>
@@ -431,7 +480,7 @@
                   Engagement
                   <span class="badge badge-leading">LEADING</span>
                 </div>
-                <span class="rag-pill rag-green"><span>●</span> Green</span>
+                <span class="status-pill status-ontrack">On track</span>
               </div>
               <div class="pillar-body">
                 <strong>Going well:</strong> Strong interest from policy and operational teams to use data in their work.<br>
@@ -573,35 +622,54 @@
               Financial savings
               <span class="badge badge-lagging">LAGGING</span>
             </div>
-            <div class="metric-value">£12m</div>
+            <div>
+              <span class="metric-value">£12m</span>
+              <span class="metric-plan">(plan £10m)</span>
+            </div>
           </div>
           <div class="metric-row">
             <div class="metric-label">
               User satisfaction
               <span class="badge badge-lagging">LAGGING</span>
             </div>
-            <div class="metric-value">72%</div>
+            <div>
+              <span class="metric-value">72%</span>
+              <span class="metric-plan">(plan 75%)</span>
+            </div>
           </div>
           <div class="metric-row">
             <div class="metric-label">
               Efficiency
               <span class="badge badge-lagging">LAGGING</span>
             </div>
-            <div class="metric-value-small">Medium (improving)</div>
+            <div>
+              <span class="metric-value-small">Medium (improving)</span>
+              <span class="metric-plan">(target High)</span>
+            </div>
           </div>
           <div class="metric-row">
             <div class="metric-label">
               Time savings
               <span class="badge badge-lagging">LAGGING</span>
             </div>
-            <div class="metric-value-small">1,200 hours per year</div>
+            <div>
+              <span class="metric-value-small">1,200 hours per year</span>
+              <span class="metric-plan">(plan 1,000)</span>
+            </div>
           </div>
           <div class="metric-row">
             <div class="metric-label">
               Public good
               <span class="badge badge-lagging">LAGGING</span>
             </div>
-            <div class="metric-value-small">Strong cross government contribution</div>
+            <div>
+              <span class="metric-value-small">Strong cross government contribution</span>
+              <span class="metric-plan">(target Strong contribution)</span>
+            </div>
+          </div>
+
+          <div class="impact-item-text" style="margin-top:10px;">
+            <strong>Benefits horizon:</strong> Most outcome movement expected in Years 3 and 4 as foundations and maturity strengthen.
           </div>
 
           <div class="impact-block-title">Impact stories and recognition</div>
@@ -637,7 +705,7 @@
             <span class="badge badge-leading">LEADING</span>
           </div>
           <div class="card-subtitle">
-            Key trade offs and choices for senior leaders in this period, informed by levels 1 and 2.
+            Key trade offs and choices for senior leaders in this period, informed by Levels 1, 2 and 3.
           </div>
 
           <div class="impact-item">
@@ -650,77 +718,117 @@
             </div>
           </div>
 
-          <span class="tag">DECIDE</span>
-        </div>
-
-        <!-- MEASUREMENT METHODS -->
-        <div class="card" style="border-top:3px solid #0ea5e9;">
-          <div class="card-title">Measurement methods</div>
-          <div class="card-subtitle">
-            How we track progress across Levels 1, 2 and 3 over time.
-          </div>
-
           <div class="impact-item">
-            <div class="impact-item-title">Reporting rhythms</div>
+            <div class="impact-item-title">Top 3 asks from the board</div>
             <div class="impact-item-text">
-              ✓ Monthly performance report (RAG, risks, blockers)
-              <span class="badge badge-leading">LEADING</span><br>
-              ✓ Quarterly senior leadership update
-              <span class="badge badge-leading">LEADING</span><br>
-              ✓ Annual data maturity review (full radar)
-              <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Annual strategy review
-              <span class="badge badge-leading">LEADING</span><br><br>
-
-              <strong>Organisational insight</strong><br>
-              ✓ Annual staff survey (culture, confidence, barriers)
-              <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Annual stakeholder conversations
-              <span class="badge badge-signal">SIGNAL</span><br><br>
-
-              <strong>Adoption and capability</strong><br>
-              ✓ Event attendance (communities, show and tells)
-              <span class="badge badge-leading">LEADING</span><br>
-              ✓ Training uptake (data literacy, AI literacy)
-              <span class="badge badge-leading">LEADING</span><br>
-              ✓ Ownership coverage for priority datasets and services
-              <span class="badge badge-leading">LEADING</span><br>
-              ✓ Participation in governance forums
-              <span class="badge badge-signal">SIGNAL</span><br><br>
-
-              <strong>System behaviour indicators</strong><br>
-              ✓ Dataset and model reuse rate
-              <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Reduction of cataloguing duplication across ALBs and directorates
-              <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Adoption of standards, APIs and shared foundations
-              <span class="badge badge-leading">LEADING</span><br><br>
-
-              <strong>Public value</strong><br>
-              ✓ Open data and API service analytics
-              <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Requests for advice, support and collaboration
-              <span class="badge badge-signal">SIGNAL</span><br>
-              ✓ External recognition (audit reports, awards)
-              <span class="badge badge-lagging">LAGGING</span><br><br>
-
-              <strong>Benefits realisation</strong><br>
-              ✓ Post implementation reviews
-              <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Verified time and cost savings
-              <span class="badge badge-lagging">LAGGING</span><br>
-              ✓ Impact case studies with causal chain
-              <span class="badge badge-lagging">LAGGING</span><br>
+              • Approve investment choice between foundational remediation and new capability development.<br>
+              • Confirm cross departmental adoption of shared data standards for key domains.<br>
+              • Endorse sequencing for data ownership and stewardship rollout across ALBs and directorates.<br>
             </div>
           </div>
 
-          <span class="tag">MEASURE</span>
+          <div class="impact-item">
+            <div class="impact-item-title">Key dependencies this period</div>
+            <div class="impact-item-text">
+              • Digital platform migration and reference data integration remain on-track.<br>
+              • Directorate and ALB engagement sustained for ownership model adoption.<br>
+              • HR approval for next wave of data and AI literacy uplift.<br>
+            </div>
+          </div>
+
+          <div class="impact-item">
+            <div class="impact-item-title">Confidence in evidence</div>
+            <div class="impact-item-text">
+              • Level 1: High - based on delivery artefacts, project trackers and governance papers.<br>
+              • Level 2: Medium - maturity inputs influenced by survey cycle and self assessment quality.<br>
+              • Level 3: Medium to low - benefits realisation evidence still emerging and lagging behind activity.<br>
+            </div>
+          </div>
+
+          <span class="tag">DECIDE</span>
         </div>
       </div>
     </div>
 
     <footer>
       Built as a learning tool for public sector data leaders by Bandhu P. Das (github.com/ibpdas). Model department only, not real performance data.
+    </footer>
+  </div>
+
+  <!-- PAGE 2: MEASUREMENT METHODS ONLY -->
+  <div class="page page-break">
+    <div class="hero" style="margin-bottom:16px;">
+      <h1>Measurement methods - Model Department X</h1>
+      <p class="hero-sub">
+        How we track progress across Levels 1, 2 and 3 over time.
+      </p>
+    </div>
+
+    <div class="card" style="border-top:3px solid #0ea5e9;">
+      <div class="card-title">Measurement methods</div>
+      <div class="card-subtitle">
+        Mix of leading, signal and lagging indicators for evidence and assurance.
+      </div>
+
+      <div class="impact-item">
+        <div class="impact-item-title">Reporting rhythms</div>
+        <div class="impact-item-text">
+          ✓ Monthly performance report (RAG, risks, blockers)
+          <span class="badge badge-leading">LEADING</span><br>
+          ✓ Quarterly senior leadership update
+          <span class="badge badge-leading">LEADING</span><br>
+          ✓ Annual data maturity review (full radar)
+          <span class="badge badge-lagging">LAGGING</span><br>
+          ✓ Annual strategy review
+          <span class="badge badge-leading">LEADING</span><br><br>
+
+          <strong>Organisational insight</strong><br>
+          ✓ Annual staff survey (culture, confidence, barriers)
+          <span class="badge badge-lagging">LAGGING</span><br>
+          ✓ Annual stakeholder conversations
+          <span class="badge badge-signal">SIGNAL</span><br><br>
+
+          <strong>Adoption and capability</strong><br>
+          ✓ Event attendance (communities, show and tells)
+          <span class="badge badge-leading">LEADING</span><br>
+          ✓ Training uptake (data literacy, AI literacy)
+          <span class="badge badge-leading">LEADING</span><br>
+          ✓ Ownership coverage for priority datasets and services
+          <span class="badge badge-leading">LEADING</span><br>
+          ✓ Participation in governance forums
+          <span class="badge badge-signal">SIGNAL</span><br><br>
+
+          <strong>System behaviour indicators</strong><br>
+          ✓ Dataset and model reuse rate
+          <span class="badge badge-lagging">LAGGING</span><br>
+          ✓ Reduction of cataloguing duplication across ALBs and directorates
+          <span class="badge badge-lagging">LAGGING</span><br>
+          ✓ Adoption of standards, APIs and shared foundations
+          <span class="badge badge-leading">LEADING</span><br><br>
+
+          <strong>Public value</strong><br>
+          ✓ Open data and API service analytics
+          <span class="badge badge-lagging">LAGGING</span><br>
+          ✓ Requests for advice, support and collaboration
+          <span class="badge badge-signal">SIGNAL</span><br>
+          ✓ External recognition (audit reports, awards)
+          <span class="badge badge-lagging">LAGGING</span><br><br>
+
+          <strong>Benefits realisation</strong><br>
+          ✓ Post implementation reviews
+          <span class="badge badge-lagging">LAGGING</span><br>
+          ✓ Verified time and cost savings
+          <span class="badge badge-lagging">LAGGING</span><br>
+          ✓ Impact case studies with causal chain
+          <span class="badge badge-lagging">LAGGING</span><br>
+        </div>
+      </div>
+
+      <span class="tag">MEASURE</span>
+    </div>
+
+    <footer>
+      Measurement view - designed for boards, audit, finance and portfolio discussions. Model department only, not real performance data.
     </footer>
   </div>
 </body>
