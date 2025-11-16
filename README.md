@@ -46,8 +46,8 @@ Examples:
 - Cross functional engagement
 
 ### Level 2. Enable maturity  
-System capability that emerges from Level 1.  
-Government data maturity themes from Level 1 (Beginning) to Level 5 (Mastering):  
+System capability that emerges from earlier Level 1.  
+This builds on Government Data Maturity Framework (2023) with maturity rating ranging from Level 1 (Beginning) to Level 5 (Mastering) for following suc themes:
 - Uses  
 - Data  
 - Leadership  
