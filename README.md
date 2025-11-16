@@ -31,19 +31,19 @@ The dashboard is built around three linked levels.
 
 ### Level 1 - Get the basics right
 
-Foundational conditions under your direct control:
+Foundational conditions under data team's control and influence (examples below are illustrative):
 
-- Strategy  
-- Shared leadership  
-- Foundation  
-- Community  
-- Engagement  
+- Strategy: Co-created, cross-cutting priorities and roadmap 
+- Shared leadership: Directions for both common and federated capabilties
+- Foundation: Essential policies, standards for adoptions
+- Community: Peer working and knowledge sharing for grassroot and sideways change  
+- Engagement: Cross-functional and cross-orgnisational join-working for adoting data first approach   
 
 These are shown as RAG rated pillar cards, each with a short "going well" and "needs attention" narrative. They are tagged as **LEADING** indicators because they describe conditions you can influence now.
 
 ### Level 2 - Enable maturity
 
-System wide maturity across six themes:
+System wide maturity across six themes using government data maturity framework )2023):
 
 - Uses  
 - Data  
