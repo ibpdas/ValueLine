@@ -11,20 +11,20 @@
   <img src="https://img.shields.io/badge/Framework-AI%20Confident-brightgreen" alt="AI Confident Framework" />
 </p>
 
-<h1 align="center">Data Strategy Impact Dashboard</h1>
+<h1 align="center">ValueLine: Data Strategy Impact Dashboard</h1>
 
 <p align="center">
-  A simple three level framework to help public sector data leaders explain, track and demonstrate 
+  A three level causal model to help public sector data leaders explain, track and demonstrate 
   data strategy impact in complex or federated organisations.
 </p>
 
 ---
 
 > ### 📌 Concept in 30 seconds
-> This dashboard uses the **ValueLine data to impact model**.  
-> It shows how **data strategy activity and foundations (Level 1)** lead to **data maturity and system behaviour (Level 2)** and ultimately **public value outcomes (Level 3)**.  
+> This dashboard is the result of the **ValueLine data to impact model**.  
+> It shows how data strategy activity and foundations (Level 1) lead to data maturity and system behaviour (Level 2) and ultimately public value outcomes (Level 3).
 >  
-> The result is a **clear causal chain**, a **repeatable dashboard format**, and a better way to have **executive conversations, prioritise effort and make investment choices** in federated organisations.
+> The shows a **clear causal chain**, a repeatable dashboard format, and a better way to have executive conversations, prioritise effort and make investment choices in federated organisations.
 
 ---
 
