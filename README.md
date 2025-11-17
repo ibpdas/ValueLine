@@ -41,7 +41,7 @@ This model brings clarity by structuring the story into three causal levels:
 
 1. **Level 1. Build the foundational enablers**  
    Conditions that data leaders and teams directly control.  
-   These include strategy alignment, shared leadership, foundations, community and engagement.
+   These are co-designed and contextual. This example includes strategy alignment, shared leadership, common foundations, grassroot community and cross-function engagement.
 
 2. **Level 2. Enable maturity**  
    How the wider system behaves when Level 1 is working.  
