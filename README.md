@@ -3,13 +3,6 @@
     <img src="https://img.shields.io/badge/Open%20Dashboard-Live%20Demo-blue?style=for-the-badge" alt="Dashboard Link">
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Sector-Data%20Leadership-blue" alt="Public Sector Data Leadership" />
-  <img src="https://img.shields.io/badge/Reusable-Template-success" alt="Reusable Template" />
-  <img src="https://img.shields.io/badge/Talk-Included-blueviolet" alt="Talk Included" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
-  <img src="https://img.shields.io/badge/Framework-AI%20Confident-brightgreen" alt="AI Confident Framework" />
-</p>
 
 <h1 align="center">ValueLine: Data Strategy Impact Dashboard</h1>
 
@@ -57,21 +50,22 @@ This creates a clean chain of reasoning:
 ## 2. The three levels at a glance
 
 ### Level 1. Build the foundational enablers  
+Early conditions shaped by data leaders and teams.  
+Examples vary by organisation and context, but typically involve shifting from:
 
-Conditions under direct control. These unlock maturity.  
+- **Strategy** – isolated priorities and disconnected efforts → shared direction and a small set of cross-cutting data priorities  
+- **Leadership** – “their data problem” → shared ownership, shared accountability and shared decision-making  
+- **Foundation** – fragmented fixes and inconsistent practices → common platforms, common standards and common reference data  
+- **Communities** – pockets of innovation → shared practice and reusable capabilties 
+- **Engagement** – ad-hoc conversations → ongoing dialogue across functions and organisations  
 
-Examples:  
-- Cross cutting data priorities  
-- Shared ownership and decision making  
-- Common foundations and standards  
-- Strong data communities  
-- Cross functional engagement  
+---
 
 ### Level 2. Enable maturity  
+System capability that emerges when Level 1 foundations begin to work together.
 
-System capability that emerges from earlier Level 1 work.  
-
-This builds on the Government Data Maturity Framework (2023) with ratings from Level 1 (Beginning) to Level 5 (Mastering) across six themes:
+This follows the **Government Data Maturity Framework (2023)** with ratings from  
+**Level 1 (Beginning)** to **Level 5 (Mastering)** across six themes:
 
 - Uses  
 - Data  
@@ -80,9 +74,10 @@ This builds on the Government Data Maturity Framework (2023) with ratings from L
 - Tools  
 - Skills  
 
-### Level 3. Influence outcomes  
+---
 
-Public value indicators influenced by the first two levels:
+### Level 3. Influence outcomes  
+Public value indicators influenced by Levels 1 and 2:
 
 - Financial savings  
 - User satisfaction  
@@ -152,9 +147,7 @@ This approach works because:
 - outcomes cannot exceed the maturity level  
 - public value emerges from alignment, not random effort  
 - the system is iterative, not linear  
-- feedback from outcomes reshapes future foundations  
-- in federated systems, Level 1 foundations are **co-designed** with partners based on Level 3 desired outcomes and existing Level 2 maturity  
-- tensions, constraints and organisational realities influence which Level 1 enablers are feasible or prioritised  
+- feedback from outcomes reshapes future foundations    
 
 These principles explain the structure of the dashboard and why it uses leading, signal and lagging indicators.
 
