@@ -60,13 +60,11 @@ Examples vary by organisation and context, but typically involve shifting from:
 - **Communities** – pockets of innovation → shared practice and reusable capabilties 
 - **Engagement** – ad-hoc conversations → ongoing dialogue across functions and organisations  
 
----
-
-## 2. Level 2. System maturity
+### 2. Level 2. System wide data maturity
 
 Level 2 describes how the organisation behaves when Level 1 foundations begin to take effect. It uses the six themes from the Data Maturity Assessment for Government (2023).
 
-### How Level 2 themes shifts as Level 1 begins to work
+How Level 2 themes shifts as Level 1 begins to work
 
 - **Uses**  
   From data used mainly for reactive reporting  to data used proactively to inform operational and strategic decisions.
@@ -85,8 +83,6 @@ Level 2 describes how the organisation behaves when Level 1 foundations begin to
 
 - **Skills**  
   From pockets of expertise concentrated in specialist teams to widespread data literacy and continuous capability development across roles.
-
----
 
 ### Level 3. Influence outcomes  
 Public value indicators influenced by Levels 1 and 2:
