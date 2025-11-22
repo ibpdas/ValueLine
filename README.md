@@ -60,7 +60,7 @@ Examples vary by organisation and context, but typically involve shifting from:
 - **Communities** – pockets of innovation → shared practice and reusable capabilties 
 - **Engagement** – ad-hoc conversations → ongoing dialogue across functions and organisations  
 
-### 2. Level 2. System wide data maturity
+### Level 2. System wide data maturity
 
 Level 2 describes how the organisation behaves when Level 1 foundations begin to take effect. 
 
