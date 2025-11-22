@@ -53,7 +53,7 @@ This creates a clean chain of reasoning:
 > It is also **not designed for sector wide or national data strategies**, where incentives, scale and value mechanisms differ significantly.
 
 > **Regulatory obligations vs strategic value:**  
-> Many teams already manage data well for compliance, audit and legal requirements — but **compliance is not the same as value**.  
+> Many teams already manage data well for compliance, audit and legal requirements but **compliance is not the same as value**.  
 > Compliance keeps data safe; strategy ensures data can be reused, connected and translated into outcomes and impact.
 
 
