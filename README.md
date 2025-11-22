@@ -194,11 +194,16 @@ It is particularly useful for:
 ## 10. Limitations  
 
 - All data and examples are **synthetic**  
-- The dashboard is a **learning and facilitation tool**, not an official scorecard  
+- The dashboard is a learning and facilitation tool, not an official scorecard  
 - It is not a benchmark, standard or assurance framework  
+- Attribution is approximate
+- Evidence quality varies
+- Maturity scores are directional
+- Outcomes lag by years
+- Measurement improves over time
 - Real decisions should still draw on your own evidence, governance and professional judgement  
 
-Please adapt this with care and make sure any real figures are checked and agreed locally.
+Please adapt this with care and make sure you take into account the needs of decision makers..
 
 ---
 
