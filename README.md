@@ -239,12 +239,13 @@ If you reuse it, you do not need to credit the source, but a short note back is 
 
 ## 12. Creator
 
-ValueLine is created by **Bandhu P. Das** — public sector data leader, qualified accountant and Imperial AI Policy Fellow (2025).
+ValueLine is created by **Bandhu P. Das**, public sector data leader, qualified accountant and Imperial AI Policy Fellow (2025).
 
-The model reflects a challenge I saw repeatedly across organisations. Data teams were doing the right things, but the **value story** was still hard to explain. After many conversations and reviewing over 50 strategies and business cases, the pattern was clear.
+The model reflects a recurring challenge across organisations: data teams were doing the right work, but the **right measurements and right actions** were often unclear or inconsistent. After many conversations and reviewing 50+ strategies and business cases, a common pattern emerged.
 
-ValueLine is a practical way to show how foundations lead to maturity, and how maturity leads to outcomes and impact. 
-> This model builds on ideas I shared in my 2023 DAMA UK talk, *“Unlocking the Value of Data.”*
+ValueLine is a practical way to link foundational work to maturity, and maturity to outcomes and impact, helping teams focus effort where it matters most.
+
+> This model builds on ideas I shared in my 2023 DAMA UK talk, *“Unlocking the Value of Data.”*  
 
 <p align="center">
   <a href="https://www.brighttalk.com/webcast/12405/602410" target="_blank">
