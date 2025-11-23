@@ -38,7 +38,7 @@ Each works on a different time horizon and with different degrees of control, he
 
 ### Level 1. Build the foundational enablers
 - Conditions that data leaders and teams directly influence.  
-- These move fastest because they relate to alignment, governance, design, capability and early cultural shifts.  
+- These are the most influenceable conditions, but also some of the hardest to move because they require alignment, governance, design, capability building and early cultural shifts .
 - They provide early signals of progress, even before maturity and outcomes change.
 
 ### Level 2. Enable maturity
@@ -49,10 +49,10 @@ Each works on a different time horizon and with different degrees of control, he
 ### Level 3. Influence outcomes
 - Where public value becomes visible.  
 - These take the longest because outcomes rely on cross-organisational change, partner incentives, operational cycles and external factors.  
-- ValueLine helps leaders align expectations, explain delays and show how today’s foundations protect and grow tomorrow’s value.
+- These are anchors for leaders to align expectations, explain delays and show how today’s foundations protect and grow tomorrow’s value.
 
-The causal chain is simple:  
-*Level 1 activities shape Level 2 maturity, which influences Level 3 outcomes — each on its own timeline, but all contributing to value.*
+> The causal chain is simple:  
+> *Level 1 activities shape Level 2 maturity, which influences Level 3 outcomes — each on its own timeline, but all contributing to value.*
 
 ---
 
