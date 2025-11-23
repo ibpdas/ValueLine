@@ -238,15 +238,21 @@ Attribution is optional but appreciated.
 
 ---
 
-## 12. Creator
+## 12. Motivation for ValueLine
 
-**ValueLine** is created by **Bandhu P. Das**, public-sector data leader, qualified accountant, former DAMA UK Committee Member (2023–24) and Imperial AI Policy Fellow (2025).
+**ValueLine** grew out of my own experience leading data strategy work in complex, federated environments.  
 
-The model reflects a recurring pattern: data teams were doing the right work, but the right measurements and right actions were often unclear.  
+Again and again I saw data teams doing the right work, but struggling to show progress because the **right measurements and signals** were missing.
 
-After many conversations and reviewing 50+ data strategies and business cases, a common pattern emerged.
+Across many conversations with colleagues and after reviewing more than 50 data strategies and business cases, the same pattern kept appearing:  
 
-**ValueLine** offers a simple way to link foundational work to maturity, and maturity to outcomes, helping teams focus on what matters.
+> We had strong activity, but no simple way to connect **foundations**, **maturity**, and **outcomes** in a way that leaders could use.
+
+I built **ValueLine** as a practical, repeatable tool to make that connection clearer.  
+It reflects years of trial, mistakes, small breakthroughs and generous advice from others.  
+If it helps even a few teams focus on what matters and explain their impact with more clarity, it will have done its job.
+
+— Bandhu P. Das
 
 <p align="center">
   <a href="https://www.brighttalk.com/webcast/12405/602410" target="_blank">
