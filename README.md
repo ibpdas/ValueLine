@@ -21,38 +21,43 @@ A three level causal model to help public sector data leaders explain, track, an
 
 ---
 
-## 1. What the model solves  
+## 1. What the model solves
 
-Most public sector organisations find it difficult to show how data strategy activity leads to maturity and then to outcomes.  
+Most public sector organisations struggle to show how data-strategy activity leads to maturity and, ultimately, to outcomes.  
+The core problem is attribution: data teams usually control the inputs, but not the outcomes or the pace at which they appear.
 
-The problem is attribution. Data teams usually control the inputs, but not the outcomes.
+The ValueLine model brings clarity by structuring the story into **three causal levels** that operate on **different time horizons** and with **different degrees of control**:
 
-This model brings clarity by structuring the story into three causal levels:
+### Level 1. Build the foundational enablers  
+Conditions that data leaders and teams directly influence.  
+These are the fastest to move because they relate to strategic alignment, governance, design, capability and early cultural shifts.
 
-1. **Level 1. Build the foundational enablers**  
-   Conditions that data leaders and teams directly control.  
-   These are co-designed and contextual. This example includes strategy alignment, shared leadership, common foundations, grassroots community and cross-functional engagement.
+### Level 2. Enable maturity  
+How the wider system behaves when Level 1 is working.  
+This takes longer because it depends on adoption, behaviour change, leadership reinforcement, operational context and real-world use of data.
 
-2. **Level 2. Enable maturity**  
-   How the wider system behaves when Level 1 is working.  
-   Uses, data, leadership, culture, tools and skills develop toward a more capable and sustainable data ecosystem.
+### Level 3. Influence outcomes  
+Where public value eventually becomes visible.  
+These take the longest because outcomes rely on cross-organisational change, partners’ incentives, operational cycles and external conditions.
 
-3. **Level 3. Influence outcomes**  
-   Direct value created when maturity is in place.  
-   Financial savings, user satisfaction, time savings, operational efficiency and public good contributions.
+The model creates a clean causal chain:  
+**Level 1 activities shape Level 2 maturity, which influences Level 3 outcomes — each on its own timeline.**
+### On time horizons  
+Outcomes often appear much later than the foundational work that enables them.  
+This model therefore encourages leaders to track **foundations now**, **maturity next**, and **outcomes over time**, rather than expecting immediate value signals from long-term changes.
 
-This creates a clean chain of reasoning:  
-**Level 1 activities shape Level 2 maturity, which influences Level 3 outcomes.**
+## Caveat – scope and boundaries
 
-> **Caveat – scope and boundaries**
->
-> This dashboard focuses on the **direct outcomes and impact** of organisational data strategy work.  
-> It is **not** a data valuation framework and does not assess wider social, environmental or economic value.  
-> It is also **not designed for sector wide or national data strategies**, where incentives, scale and value mechanisms differ significantly.
+This dashboard focuses on the **direct and near-term effects** of organisational data-strategy work.  
+It is designed to show how foundational activity improves system conditions and maturity over time, not to capture every form of value a data ecosystem can create.
 
-> **Regulatory obligations vs strategic value:**  
-> Many teams already manage data well for compliance, audit and legal requirements but **compliance is not the same as value**.  
-> Compliance keeps data safe; strategy ensures data can be reused, connected and translated into outcomes and impact.
+It does **not** serve as a data-valuation framework and does not estimate wider social, environmental or economic value.  
+It is also **not intended for sector-wide or national data strategies**, where incentives, scale, partners and value mechanisms differ significantly.
+
+### Regulatory obligations vs strategic value  
+Many teams already manage data effectively for compliance, audit and legal purposes.  
+Compliance protects integrity and reduces risk, but **compliance is not the same as value**.  
+Strategy work focuses on the **conditions that enable data to be reused, connected and translated into improved maturity and future outcomes**.
 
 
 ## 2. The three levels at a glance
