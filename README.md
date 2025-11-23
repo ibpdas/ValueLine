@@ -242,14 +242,16 @@ Attribution is optional but appreciated.
 
 **ValueLine** grew out of my own experience leading data strategy work in complex, federated environments.  
 
-Again and again I saw data teams doing the right work, but struggling to show progress because the **right measurements and signals** were missing.
+Again and again I saw data teams doing the right work, but struggling to show progress because the right measurements and signals were missing.
 
 Across many conversations with colleagues and after reviewing more than 50 data strategies and business cases, the same pattern kept appearing:  
 
-> We had strong activity, but no simple way to connect **foundations**, **maturity**, and **outcomes** in a way that leaders could use.
+> We had strong activity, but no simple way to connect foundations, maturity, and outcomesin a way that leaders could use.
 
 I built **ValueLine** as a practical, repeatable tool to make that connection clearer.  
+
 It reflects years of trial, mistakes, small breakthroughs and generous advice from others.  
+
 If it helps even a few teams focus on what matters and explain their impact with more clarity, it will have done its job.
 
 — Bandhu P. Das
