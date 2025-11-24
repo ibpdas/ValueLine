@@ -63,20 +63,20 @@ Data teams create the conditions for value, but results depend on how the wider 
 
 This creates a familiar tension - quick wins now versus strong foundations for later. 
 
-### Why it matter
+### Why it matters
 
-When value flows are not understood, organisations:
+When value flows are unclear, organisations struggle to focus efforts where it matters most.  
+This leads to:
 
-- waste effort  
-- misread progress  
-- lose opportunities for collaboration  
-- miss chances for real impact  
-
-A clearer view of the value journey helps leaders prioritise well, direct investment, and reduce wasted energy across the system.
+- wasted effort  
+- investments that do not address root causes  
+- incorrect assumptions about progress  
+- missed chances to collaborate  
+- limited or delayed impact  
 
 ### How ValueLine helps
 
-ValueLine addresses these issues by breaking the journey into three causal levels.  
+**ValueLine** addresses these issues by breaking the journey into three causal levels.  
 Each level moves at a different pace and is influenced by different actors.
 
 - **Level 1: Conditions data teams co-design and shape**  
@@ -88,7 +88,7 @@ Each level moves at a different pace and is influenced by different actors.
 - **Level 3: Outcomes influenced once maturity is in place**  
   savings, time reduction, improved services, public good impact
 
-## What leaders gain
+### What leaders gain
 
 This model gives leaders a more accurate and practical view of progress. It clarifies:
 
