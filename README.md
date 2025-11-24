@@ -47,8 +47,7 @@ Most public sector organisations struggle to show how data strategy activity lea
 
 The core challenge is **attribution**: data teams influence the inputs but not the outcomes or the speed at which they emerge.
 
-**ValueLine** structures the story into three causal levels.  
-Each works on a different time horizon and with different degrees of control, helping leaders understand:
+**ValueLine** structures the story into three causal levels. Each works on a different time horizon and with different types of indicators, helping leaders understand:
 
 - where value can be realised quickly  
 - where it takes longer  
