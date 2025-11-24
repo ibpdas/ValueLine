@@ -72,7 +72,7 @@ This structure gives leaders a more honest and realistic view of progress by cla
 - where progress genuinely takes longer  
 - which decisions and conditions accelerate or block impact  
 
-By distinguishing conditions, maturity and outcomes, ValueLine makes progress visible, expectations realistic and strategic choices clearer.
+This three level causal model makes progress visible, expectations realistic and strategic choices clearer.
 
 
 ### Caveat – scope and boundaries
