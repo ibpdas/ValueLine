@@ -215,9 +215,10 @@ Useful for:
 
 ## 9. Status
 
-- ✔️ HTML conceptual dashboard  
+- ✅ HTML conceptual dashboard  
 - 🟡 Excel template (MVP)  
 - 🟡 PowerPoint generator (MVP)  
+- 🟡 PowerBI template (MVP)  
 - ⬜ Streamlit app (future)  
 
 ---
