@@ -207,8 +207,6 @@ Independent validation of long term value and attribution.
 - Net Present Value (NPV) (Lagging)  
 - experimental or counterfactual methods (Lagging)
 
-Together, these methods provide a rounded, credible evidence base: **Level 1 shows early movement, Level 2 confirms behaviour change, and Level 3 validates public value.**
-
 ---
 
 ## 6. Why this model works
