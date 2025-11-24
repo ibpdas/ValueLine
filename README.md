@@ -50,16 +50,17 @@ It shifts conversations from **"Why is value slow?”** to **“What must change
 
 ## 1. What the model solves
 
-Public sector organisations often operate in complex, federated or multi team environments where no single entity controls the full data value chain. As a result, it is difficult to show how foundational work translates into maturity, behaviour change or public value.
+Public sector organisations often operate in complex, federated environments where no single entity controls the full data value chain. This makes it hard to show how foundational work translates into maturity, behaviour change or public value.
 
-The underlying issue is **attribution**.  
+The underlying issue are attribution, prioritisation and collaboration.
 
-Data teams create the conditions for value, but outcomes depend on whether the wider system adopts and uses them. When the link is unclear, leaders face an additional challenge:
-balancing the pressure for visible quick wins with the need to fix long-term foundations for sustainable impact.
+Data teams create the conditions for value, but outcomes depend on whether the wider system adopts and uses them. 
 
-Without clarity on how value flows, organisations unintentionally waste effort, duplicate work and miss opportunities for real impact.
+When the link is unclear, leaders face an additional challenge - balancing the pressure for visible quick wins with the need to fix long term foundations for sustainable impact.
 
-**ValueLine** solves this by breaking the journey into three causal levels. Each moves at a different pace and is influenced by different decisions and actors.
+Without clarity on how value flows, organisations unintentionally waste effort, duplicate work and miss opportunities for collaboration and real impact.
+
+**ValueLine** solves these by breaking the journey into three causal levels. Each moves at a different pace and is influenced by different actors.
 
 - **Level 1 — conditions data teams co-design and shape**  
   (strategy alignment, leadership, standards, tooling, communities)
@@ -70,7 +71,7 @@ Without clarity on how value flows, organisations unintentionally waste effort, 
 - **Level 3 — outcomes influenced once maturity is in place**  
   (savings, time reduction, improved services, public good impact)
 
-This structure gives leaders a more honest and realistic view of progress by clarifying:
+This model gives leaders a more accurate and practical view of progress. It clarifies:
 
 - what will unlock value now, next and later
 - where meaningful progress is happening even when outcomes lag
