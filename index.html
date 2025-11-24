@@ -455,6 +455,48 @@
   .toc-lane-arrow-row > div {
     text-align: center;
   }
+
+  /* ...your existing styles... */
+
+  .readme-callout {
+    margin: 8px 0 16px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid #dbeafe;
+    background: #eff6ff;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    color: #1f2933;
+  }
+
+  .readme-callout-icon {
+    font-size: 18px;
+    line-height: 1;
+  }
+
+  .readme-callout-main {
+    font-weight: 600;
+  }
+
+  .readme-callout a {
+    font-weight: 700;
+    text-decoration: none;
+    color: #1d4ed8;
+  }
+
+  .readme-callout a:hover {
+    text-decoration: underline;
+  }
+
+  .readme-callout-note {
+    display: block;
+    font-weight: 400;
+    color: #4b5563;
+    margin-top: 2px;
+  }
+  
 </style>
 </head>
 
@@ -476,16 +518,20 @@ Data value is hard to prove in federated environments. This dashboard offers a p
     </div>
   </div>
 
-<div style="margin-top:10px; font-size:14px;">
-  <a href="README.html" 
-     style="color:#1d70b8; text-decoration:underline; font-weight:600;">
-    📘 Read the README first
-  </a>
-  <span style="color:#444;">
-    —   This dashboard is guided by the <strong>ValueLine model</strong> — a three level causal structure that links foundations, maturity and outcomes. It explains the approach and motivation behind this dashboard.
-  </span>
+<div class="readme-callout">
+  <div class="readme-callout-icon">📘</div>
+  <div>
+    <span class="readme-callout-main">
+      <a href="README.html" target="_blank">Read the README first</a>
+    </span>
+    <span class="readme-callout-note">
+      This dashboard is guided by the <strong>ValueLine model</strong>, a three-level causal
+      structure linking foundations, maturity and outcomes. The README explains the problem,
+      approach and motivation behind this view.
+    </span>
+  </div>
 </div>
-
+  
   <div class="summary-strip">
     <div class="summary-strip-title">For Executive Level Board - Overall position this period</div>
     <div>
