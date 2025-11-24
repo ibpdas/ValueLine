@@ -235,7 +235,6 @@ Independent validation of long term value and attribution.
 ## 6. Why this model works
 
 ValueLine works because it:
-
 	•	recognises how federated organisations actually operate
 	•	clarifies the difference between contribution and attribution
 	•	prevents unrealistic expectations around outcomes
