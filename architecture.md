@@ -1,75 +1,81 @@
-====================================
-       VALUE LINE – THEORY OF CHANGE
-====================================
-
-           [ LEVEL 1 ]
-     -----------------------
-      Foundational Enablers
-     -----------------------
-      Strategy
-      Leadership
-      Foundation
-      Community
-      Engagement
-     -----------------------
-      Sources:
-      Gov notes, registers,
-      plans, CoP logs
-               |
-               v
-           [ LEVEL 2 ]
-     -----------------------
-           Data Maturity
-             (1 → 5)
-     -----------------------
-      Uses | Data
-      Leadership | Culture
-      Tools | Skills
-     -----------------------
-      Sources:
-      Maturity review,
-      surveys, adoption
-               |
-               v
-           [ LEVEL 3 ]
-     -----------------------
-       Outcomes & Impact
-     -----------------------
-      Savings
-      Efficiency
-      Time saved
-      User satisfaction
-      Public good
-     -----------------------
-      Sources:
-      Benefits logs,
-      analytics, studies
-
-====================================
-         EXECUTIVE DECISION BOX
-====================================
-  - Top 3 asks
-  - Dependencies
-  - Trade offs
-  - Confidence
-  - Forward look
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                    DATA STRATEGY IMPACT DASHBOARD – VALUELINE               │
+└──────────────────────────────────────────────────────────────────────────────┘
 
 
-====================================
-        MEASUREMENT METHODS
-====================================
-Quantitative:
-  Monthly reports
-  Quarterly updates
-  Cost/time savings
-  Adoption metrics
-  Reuse metrics
+                                   ┌─────────────────────────────┐
+                                   │ Level 1 — Foundational      │
+                                   │ Enablers                    │
+                                   ├─────────────────────────────┤
+                                   │ Strategy                    │
+                                   │ Shared leadership           │
+                                   │ Foundation                  │
+                                   │ Community                   │
+                                   │ Engagement                  │
+                                   │                             │
+                                   │ Sources: governance notes,  │
+                                   │ owner registers, plans, CoP │
+                                   │ activity, engagement logs   │
+                                   └─────────────────────────────┘
+                                                │
+                                                ▼
+                                   ┌─────────────────────────────┐
+                                   │ Level 2 — Data Maturity     │
+                                   │ (1 → 5)                     │
+                                   ├─────────────────────────────┤
+                                   │ Uses | Data | Leadership    │
+                                   │ Culture | Tools | Skills    │
+                                   │                             │
+                                   │ Sources: assessments,        │
+                                   │ surveys, tooling adoption,   │
+                                   │ leadership evidence           │
+                                   └─────────────────────────────┘
+                                                │
+                                                ▼
+                                   ┌─────────────────────────────┐
+                                   │ Level 3 — Outcomes & Impact │
+                                   ├─────────────────────────────┤
+                                   │ Financial savings           │
+                                   │ Efficiency                  │
+                                   │ Time savings                │
+                                   │ User satisfaction           │
+                                   │ Public good contribution    │
+                                   │                             │
+                                   │ Sources: benefits logs,     │
+                                   │ KPIs, time studies, reuse   │
+                                   │ metrics, collaboration       │
+                                   │ records                      │
+                                   └─────────────────────────────┘
 
-Qualitative:
-  Surveys
-  User research
-  Case studies
 
-Economic/Experimental:
-  BCR, NPV
-  Counterfactuals
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                     THEORY OF CHANGE (ValueLine)                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Inputs (L1) → Outputs (L1/L2) → Outcomes (L3) → Impact (L3)                  │
+│ Foundations enable maturity; maturity enables outcomes; outcomes create       │
+│ public value.                                                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌─────────────────────────────┐         ┌─────────────────────────────────────┐
+│ EXECUTIVE DECISION BOX      │         │ MIXED MEASUREMENT METHODS          │
+├─────────────────────────────┤         ├─────────────────────────────────────┤
+│ • Top 3 asks                │         │ Quantitative                        │
+│ • Dependencies              │         │   - Monthly reports                 │
+│ • Trade-offs                │         │   - Quarterly updates               │
+│ • Confidence in evidence    │         │   - Cost & time savings             │
+│ • Forward look              │         │   - Standards/API adoption          │
+│                             │         │   - Reuse & analytics metrics       │
+│                             │         │   - CO₂ impacts                     │
+│                             │         ├─────────────────────────────────────┤
+│                             │         │ Qualitative                         │
+│                             │         │   - Staff surveys                   │
+│                             │         │   - Training & CoP participation    │
+│                             │         │   - Engagement logs                 │
+│                             │         │   - Case studies/testimonials       │
+│                             │         ├─────────────────────────────────────┤
+│                             │         │ Economic & Experimental             │
+│                             │         │   - BCR, NPV                        │
+│                             │         │   - Counterfactual/experimental     │
+│                             │         │     methods                         │
+└─────────────────────────────┘         └─────────────────────────────────────┘
