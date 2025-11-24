@@ -234,20 +234,16 @@ Independent validation of long term value and attribution.
 
 ## 6. Why this model works
 
-**ValueLine** is grounded in a simple systems principle:  
-> foundations shape maturity, and maturity shapes outcomes and impact.
+ValueLine works because it:
 
-This works because:
+	•	recognises how federated organisations actually operate
+	•	clarifies the difference between contribution and attribution
+	•	prevents unrealistic expectations around outcomes
+	•	makes invisible value visible
+	•	helps leaders focus on the few shifts that matter most
+	•	reduces repeated work and misaligned effort
 
-- foundational and outcome changes move at different speeds  
-- system behaviour lags behind system investment  
-- maturity cannot exceed the strength of foundations  
-- outcomes cannot exceed maturity  
-- value emerges from alignment, not isolated effort  
-- progress is iterative, not linear  
-- no magic metric and mixed method evaluation for rounded view 
-
-These principles justify the structure of the dashboard and the use of leading, signal and lagging indicators.
+It reframes data strategy from a list of activities to a map of how value is created.
 
 ---
 
@@ -321,8 +317,7 @@ Attribution is optional but appreciated.
 
 Across many conversations with colleagues and after reviewing more than fifty data strategies and business cases, the same pattern kept appearing:
 
-> Strong foundational work was happening, but the story of progress was hard to explain.  
-> Expectations drifted, value signals came late, and the link between foundations, maturity and outcomes was often lost.
+Strong foundational work was happening, but the story of progress was hard to explain. Expectations drifted, value signals came late, and the link between foundations, maturity and outcomes was often lost.
 
 **ValueLine** was created as a practical, repeatable way to make that connection clearer. It reflects trial and error, small breakthroughs and generous advice from others along the way.
 
