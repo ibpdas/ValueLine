@@ -1,81 +1,85 @@
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                    DATA STRATEGY IMPACT DASHBOARD – VALUELINE               │
-└──────────────────────────────────────────────────────────────────────────────┘
+============================================================
+                 DATA STRATEGY IMPACT DASHBOARD
+                        — VALUE LINE —
+============================================================
 
 
-                                   ┌─────────────────────────────┐
-                                   │ Level 1 — Foundational      │
-                                   │ Enablers                    │
-                                   ├─────────────────────────────┤
-                                   │ Strategy                    │
-                                   │ Shared leadership           │
-                                   │ Foundation                  │
-                                   │ Community                   │
-                                   │ Engagement                  │
-                                   │                             │
-                                   │ Sources: governance notes,  │
-                                   │ owner registers, plans, CoP │
-                                   │ activity, engagement logs   │
-                                   └─────────────────────────────┘
-                                                │
-                                                ▼
-                                   ┌─────────────────────────────┐
-                                   │ Level 2 — Data Maturity     │
-                                   │ (1 → 5)                     │
-                                   ├─────────────────────────────┤
-                                   │ Uses | Data | Leadership    │
-                                   │ Culture | Tools | Skills    │
-                                   │                             │
-                                   │ Sources: assessments,        │
-                                   │ surveys, tooling adoption,   │
-                                   │ leadership evidence           │
-                                   └─────────────────────────────┘
-                                                │
-                                                ▼
-                                   ┌─────────────────────────────┐
-                                   │ Level 3 — Outcomes & Impact │
-                                   ├─────────────────────────────┤
-                                   │ Financial savings           │
-                                   │ Efficiency                  │
-                                   │ Time savings                │
-                                   │ User satisfaction           │
-                                   │ Public good contribution    │
-                                   │                             │
-                                   │ Sources: benefits logs,     │
-                                   │ KPIs, time studies, reuse   │
-                                   │ metrics, collaboration       │
-                                   │ records                      │
-                                   └─────────────────────────────┘
+                     THEORY OF CHANGE (ASCII)
+                     -------------------------
 
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                     THEORY OF CHANGE (ValueLine)                             │
-├──────────────────────────────────────────────────────────────────────────────┤
-│ Inputs (L1) → Outputs (L1/L2) → Outcomes (L3) → Impact (L3)                  │
-│ Foundations enable maturity; maturity enables outcomes; outcomes create       │
-│ public value.                                                                 │
-└──────────────────────────────────────────────────────────────────────────────┘
+                          +----------------------+
+                          |  LEVEL 1:            |
+                          |  FOUNDATIONAL        |
+                          |  ENABLERS            |
+                          +----------------------+
+                                  |
+                                  |
+       ---------------------------------------------------------
+       Strategy | Shared leadership | Foundation | Community | Engagement
+       ---------------------------------------------------------
+          Sources: governance notes, owner registers,
+                   plans, CoP activity, engagement logs
+                                  |
+                                  v
+                          +----------------------+
+                          |  LEVEL 2:            |
+                          |  DATA MATURITY       |
+                          |  (1 → 5)             |
+                          +----------------------+
+                                  |
+                                  |
+       ---------------------------------------------------------
+       Uses | Data | Leadership | Culture | Tools | Skills
+       ---------------------------------------------------------
+          Sources: maturity assessments, surveys,
+                   tooling adoption, leadership evidence
+                                  |
+                                  v
+                          +----------------------+
+                          |  LEVEL 3:            |
+                          |  OUTCOMES & IMPACT   |
+                          +----------------------+
+                                  |
+                                  |
+       ---------------------------------------------------------
+       Financial savings | User satisfaction | Efficiency
+       Time savings | Public good impact
+       ---------------------------------------------------------
+          Sources: benefits logs, analytics, time studies,
+                   cross-government collaboration records
 
 
-┌─────────────────────────────┐         ┌─────────────────────────────────────┐
-│ EXECUTIVE DECISION BOX      │         │ MIXED MEASUREMENT METHODS          │
-├─────────────────────────────┤         ├─────────────────────────────────────┤
-│ • Top 3 asks                │         │ Quantitative                        │
-│ • Dependencies              │         │   - Monthly reports                 │
-│ • Trade-offs                │         │   - Quarterly updates               │
-│ • Confidence in evidence    │         │   - Cost & time savings             │
-│ • Forward look              │         │   - Standards/API adoption          │
-│                             │         │   - Reuse & analytics metrics       │
-│                             │         │   - CO₂ impacts                     │
-│                             │         ├─────────────────────────────────────┤
-│                             │         │ Qualitative                         │
-│                             │         │   - Staff surveys                   │
-│                             │         │   - Training & CoP participation    │
-│                             │         │   - Engagement logs                 │
-│                             │         │   - Case studies/testimonials       │
-│                             │         ├─────────────────────────────────────┤
-│                             │         │ Economic & Experimental             │
-│                             │         │   - BCR, NPV                        │
-│                             │         │   - Counterfactual/experimental     │
-│                             │         │     methods                         │
-└─────────────────────────────┘         └─────────────────────────────────────┘
+============================================================
+                     EXECUTIVE BOX (RIGHT SIDE)
+============================================================
+
+  Top 3 asks
+  Dependencies
+  Trade offs
+  Confidence in evidence
+  Forward look priorities
+
+
+============================================================
+                   MEASUREMENT METHODS (GROUPED)
+============================================================
+
+Quantitative (Leading/Signal/Lagging)
+  - Monthly performance reports
+  - Quarterly updates
+  - Cost & time savings
+  - Standards/API adoption
+  - Reuse metrics
+  - CO₂ from compute & storage
+
+Qualitative (Signal/Lagging)
+  - Staff surveys
+  - Community participation
+  - User research
+  - Case studies & reuse stories
+
+Economic & Experimental (Lagging)
+  - Benefit Cost Ratio (BCR)
+  - Net Present Value (NPV)
+  - Counterfactual / experimental methods
