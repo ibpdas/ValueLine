@@ -235,12 +235,13 @@ Independent validation of long term value and attribution.
 ## 6. Why this model works
 
 ValueLine works because it:
-	•	recognises how federated organisations actually operate
-	•	clarifies the difference between contribution and attribution
-	•	prevents unrealistic expectations around outcomes
-	•	makes invisible value visible
-	•	helps leaders focus on the few shifts that matter most
-	•	reduces repeated work and misaligned effort
+
+- recognises how federated organisations actually operate
+- clarifies the difference between contribution and attribution
+- prevents unrealistic expectations around outcomes
+- makes invisible value visible
+- helps leaders focus on the few shifts that matter most
+- reduces repeated work and misaligned effort
 
 It reframes data strategy from a list of activities to a map of how value is created.
 
