@@ -150,9 +150,11 @@ This explains why different results move at different speeds.
 
 ## 4. Executive decision box
 
-**ValueLine** dashboard includes an **Executive decision box** to the right of Page 1.
+## 4. Executive decision box
 
-It gives leaders a focused view of:
+**Executive Decision Box** in **ValueLine** dashboard translates insights from Levels 1, 2 and 3 into the specific decisions, trade offs and actions leaders need to take.
+
+It provides a focused view of:
 
 - top three asks  
 - key trade offs  
@@ -160,37 +162,52 @@ It gives leaders a focused view of:
 - confidence levels in the evidence  
 - forward look priorities  
 
-This turns data strategy into **specific executive actions**, not just a performance commentary.
+In federated organisations, this is essential because progress and value depend on decisions made across many teams, not just the data function.
+
+### What leaders typically use it for  
+- deciding whether to invest next in **Level 1** conditions or **Level 2** maturity  
+- surfacing alignment gaps that need senior sponsorship  
+- identifying what to stop, start or accelerate  
+- clarifying which dependencies block value  
+- judging where evidence is strong, weak or needs validation  
+
+The decision box shifts the dashboard from reporting to **decision-making**, ensuring leaders act on the conditions that accelerate value.
 
 ---
 
 ## 5. Measurement methods
 
-**ValueLine** uses a **mixed method** approach to understand capability building and value creation.  
+**ValueLine** uses a **mixed method approach** because no single metric can capture how foundations, maturity and outcomes evolve over different time horizons.
 
-The labels (Leading, Signal, Lagging) show which part of the causal chain each method mainly informs.
+Each method contributes evidence to **Leading (Level 1), Signal (Level 2)** or **Lagging (Level 3)** indicators.
 
-### Quantitative  
-- monthly performance reports (Lagging)
-- quarterly senior leadership updates (Signal)
-- validated cost and time savings (Lagging)
-- adoption of policies and standards (Leading)
-- dataset and model reuse (Signal)
-- API and open data analytics (Signal)
-- CO2 impacts from compute and storage (Lagging)
+### Quantitative methods  
+Structured, repeatable metrics that show patterns of behaviour and performance.
 
-### Qualitative 
-- staff surveys (Signal)
-- training and community participation (Leading)
-- user research and engagement logs (Signal)
+- monthly performance reports (Lagging)  
+- quarterly senior-leadership updates (Signal)  
+- validated cost and time savings (Lagging)  
+- adoption of policies and standards (Leading)  
+- dataset and model reuse (Signal)  
+- API and open data analytics (Signal)  
+- CO₂ impacts from compute and storage (Lagging)
+
+### Qualitative methods  
+Contextual insights that explain *why* behaviours shift and *how* people experience change.
+
+- staff surveys and sentiment (Signal)  
+- training and community participation (Leading)  
+- user research findings and engagement logs (Signal)  
 - case studies and reuse stories (Lagging)
 
-### Economic and experimental methods
-- Benefit Cost Ratio (BCR) (Lagging)
-- Net Present Value (NPV) (Lagging)
+### Economic and experimental methods  
+Independent validation of long term value and attribution.
+
+- Benefit Cost Ratio (BCR) (Lagging)  
+- Net Present Value (NPV) (Lagging)  
 - experimental or counterfactual methods (Lagging)
 
-Together these create a rounded view of capability building and value creation.
+Together, these methods provide a rounded, credible evidence base: **Level 1 shows early movement, Level 2 confirms behaviour change, and Level 3 validates public value.**
 
 ---
 
