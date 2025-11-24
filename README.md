@@ -72,7 +72,7 @@ This structure gives leaders a more honest and realistic view of progress by cla
 - what will unlock value now, next and later
 - where meaningful progress is happening even when outcomes lag
 - which constraints, decisions and dependencies matter most
-- why strengthening foundational enablers is essential for sustainable impa
+- why strengthening foundational enablers is essential for sustainable impact
 
 ### Caveat – scope and boundaries
 
