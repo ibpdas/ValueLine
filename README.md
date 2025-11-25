@@ -39,7 +39,7 @@ This creates unclear expectations, late value signals and inconsistent support.
 
 **ValueLine** gives a clear, plain English line of sight from **foundations → maturity → outcomes**.  
 
-It shows what’s changing, why different results move at different speeds, and what leaders need to focus on now, next and later.
+> It shows what’s changing, why different results move at different speeds, and what leaders need to focus on now, next and later.
 
 It grew out of seeing strong foundational work being delivered, but the story of progress remaining hard to explain.
 
@@ -122,7 +122,7 @@ Savings, time reduction, efficiency, improved services, public good impact.
 **Signal indicators** — behavioural and system changes  
 **Lagging indicators** — measurable public value  
 
-These explain why Level 3 cannot appear before Level 1 and Level 2 shifts.
+> These explain why Level 3 cannot appear before Level 1 and Level 2 shifts.
 
 ---
 
@@ -134,6 +134,8 @@ ValueLine uses a mixed evidence approach:
 - **Qualitative** — sentiment, user research, case studies  
 - **Economic/experimental** — BCR, NPV, counterfactuals  
 
+> No single metric or silver bullet answer 
+
 ---
 
 ### 2.4 Theory of change wrapper — the connective logic
@@ -143,7 +145,7 @@ ValueLine uses a mixed evidence approach:
 - **which enables** outcomes to appear  
 - **subject to** leadership decisions, constraints and system conditions  
 
-This turns ValueLine into a decision tool rather than a descriptive diagram.
+> This turns ValueLine into a decision tool rather than a descriptive diagram.
 
 ---
 
@@ -182,8 +184,7 @@ It becomes a living tool for action, alignment and collaboration.
 
 ## 4.1 What this model requires from leaders
 
-ValueLine only works when leaders act on what it surfaces.  
-This can mean:
+ValueLine only works when leaders act on what it surfaces. This can mean:
 
 - Sponsoring ownership of data domains and standards  
 - Prioritising shared foundations over local optimisation  
