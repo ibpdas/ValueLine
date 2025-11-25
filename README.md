@@ -30,15 +30,15 @@ A simple, practical model for showing how foundational data work turns into matu
 
 ## 📌 Concept in 30 seconds
 
-Public sector leaders care deeply about outcomes, but the link between data work and real impact is often unclear.
+Public sector leaders care deeply about outcomes, but the link between data work and real impact is often unclear.  
 
 Foundational activities are essential, yet their contribution to maturity and outcomes is hard to see.  
 
-That leads to unclear expectations, late value signals and uneven support.
+That leads to misaligned expectations, duplicated effort, slower impact and results that are harder to sustain.
 
-**ValueLine brings together a causal model, an action focussed dashboard and a lightweight methodology that show where value is emerging, where maturity is shifting and where leadership action is needed.**
+> ValueLine brings together a causal model, an action =focused dashboard and a lightweight methodology to show where value is emerging, how maturity is shifting and where leadership action is needed.  
 
-It turns data strategy into something live and usable - providing early signals of what is shifting beneath the surface and creating a shared picture of progress across a federated organisation, reducing narrative drift and making alignment easier to sustain.
+It turns data strategy into something *live and usable* — surfacing early signals of change and creating a shared picture of progress across a federated organisation, reducing narrative drift and making alignment easier to sustain.
 
 ---
 
