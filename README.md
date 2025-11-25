@@ -38,7 +38,7 @@ That leads to unclear expectations, late value signals and uneven support.
 
 **ValueLine brings together a causal model, an action focussed dashboard and a lightweight methodology that show where value is emerging, where maturity is shifting and where leadership action is needed.**
 
-It turns data strategy into something live and usable, showing where value is emerging and what leaders need to focus on now, next and later.
+It turns data strategy into something live and usable - providing early signals of what is shifting beneath the surface and creating a shared picture of progress across a federated organisation, reducing narrative drift and making alignment easier to sustain.
 
 ---
 
