@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ibpdas.github.io/data-strategy-impact-dashboard/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Dashboard-Live%20Demo-blue?style=for-the-badge" alt="Dashboard Link">
+    <img src="https://img.shields.io/badge/Open%20Dashboard-Live%20Demo-blue?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
 
@@ -17,9 +17,8 @@ A simple, practical model for showing how foundational data work turns into matu
 - [Concept in 30 seconds](#concept-in-30-seconds)
 - [1. What problem this model solves](#1-what-problem-this-model-solves)
 - [2. How the model works](#2-how-the-model-works)
-- [3. Executive decision box](#3-executive-decision-box)
+- [3. Leadership value & responsibilities](#3-leadership-value--responsibilities)
 - [4. Why this model works](#4-why-this-model-works)
-- [4.1 What this model requires from leaders](#41-what-this-model-requires-from-leaders)
 - [5. How to use the model in practice](#5-how-to-use-the-model-in-practice)
 - [6. What this repository includes](#6-what-this-repository-includes)
 - [7. Status](#7-status)
@@ -33,35 +32,31 @@ A simple, practical model for showing how foundational data work turns into matu
 
 Public sector leaders care deeply about outcomes, but the link between data work and real impact is often unclear.
 
-Foundational activities are essential, yet their contribution to maturity, behaviour change and public value is hard to see.  
+Foundational activities matter, yet their contribution to maturity and outcomes is hard to see.  
+That leads to unclear expectations, late value signals and uneven support.
 
-This creates unclear expectations, late value signals and inconsistent support.
+**ValueLine brings together a causal model, a simple dashboard and a lightweight methodology that show where value is emerging, where maturity is shifting and where leadership action is needed.**
 
-**ValueLine** gives a clear, plain English line of sight from **foundations → maturity → outcomes**.  
-
-> It shows what’s changing, why different results move at different speeds, and what leaders need to focus on now, next and later.
-
-It grew out of seeing strong foundational work being delivered, but the story of progress remaining hard to explain.
+It provides a plain-English line of sight from **foundations → maturity → outcomes**, showing what’s changing, why results move at different speeds, and what to focus on now, next and later.
 
 ---
 
 ## 1. What problem this model solves
 
-In federated organisations, no single team controls the data value chain.  
-
-This creates three persistent challenges:
+In federated organisations, no single team controls the full data value chain.  
+This creates persistent challenges:
 
 - **Unclear attribution** between foundational work and outcomes  
-- **Competing priorities** that dilute focus
-- **Fragmented collaboration** across teams and functions
+- **Competing priorities** that dilute focus  
+- **Fragmented collaboration** across teams and functions  
 
 When the line of sight is weak, organisations:
 
-- Focus effort in the wrong places  
-- Misread progress  
-- Imvest without addressing root causes  
-- Experience delayed or diluted impact  
-- Create quick fixes that become future bottlenecks 
+- focus effort in the wrong places  
+- misread progress  
+- invest without addressing root causes  
+- create short-term fixes that become long-term bottlenecks  
+- experience delayed or diluted impact  
 
 ### How ValueLine addresses this
 
@@ -73,26 +68,26 @@ ValueLine breaks the journey into three causal levels:
 
 This helps leaders understand:
 
-- What unlocks value now vs later  
-- Why early signals matter even when outcomes lag  
-- Where dependencies and decisions sit  
-- How different results move at different speeds  
+- what unlocks value now vs later  
+- why early signals matter even when outcomes lag  
+- where dependencies and decisions sit  
+- how different results move at different speeds  
+
+---
 
 ### ❗ What ValueLine isn’t
 
 To avoid confusion, ValueLine is **not**:
 
-- a data valuation framework  
+- a valuation framework  
 - a capability or maturity model (e.g., DAMA, DCAM)  
-- a regulatory or compliance scorecard    
+- a regulatory or compliance scorecard  
 - a substitute for technical standards, governance or assurance  
 
-ValueLine does **not** estimate financial, social or economic value.  
-
-It does **not** audit capability or assign scores.
+ValueLine does **not** estimate economic value, audit capability or assign scores.
 
 Its purpose is simpler:  
-> to accelerate path to value by explaining how foundational work leads to maturity, behaviour change and outcomes in federated organisations.
+> to accelerate the path to value by explaining how foundational work leads to maturity, behaviour change and outcomes in federated organisations.
 
 ---
 
@@ -105,7 +100,7 @@ ValueLine combines three levels, three indicators and three measurement methods,
 ### 2.1 The three levels — what changes over time
 
 **Level 1 — Foundations**  
-Strategy alignment, leadership buy-in, shared capabilities, communities, engagement.
+Strategy alignment, leadership buy-in, shared capabilities, communities, consistent engagement.
 
 **Level 2 — Maturity**  
 Reuse, interoperability, confidence, evidence-informed decisions, stronger collaboration.
@@ -119,7 +114,7 @@ Savings, time reduction, efficiency, improved services, public good impact.
 
 ### 2.2 The three indicators — how fast results appear
 
-**Leading indicators** — early signs that Level 1 foundations are working  
+**Leading indicators** — early signs foundations are forming  
 **Signal indicators** — behavioural and system changes  
 **Lagging indicators** — measurable public value  
 
@@ -129,13 +124,13 @@ Savings, time reduction, efficiency, improved services, public good impact.
 
 ### 2.3 The three measurement methods — how evidence builds
 
-ValueLine uses a mixed evidence approach:
+ValueLine uses a mixed-evidence approach:
 
 - **Quantitative** — savings, adoption, reuse, usage  
 - **Qualitative** — sentiment, user research, case studies  
 - **Economic/experimental** — BCR, NPV, counterfactuals  
 
-> No single metric or silver bullet answer 
+> No single metric provides the full picture.
 
 ---
 
@@ -150,18 +145,33 @@ ValueLine uses a mixed evidence approach:
 
 ---
 
-## 3. Executive decision box
+## 3. Leadership value & responsibilities
 
-The **Executive Decision Box** translates insights into simple leadership asks:
+### **3.1 What leaders get from ValueLine**
 
-- Essential decisions  
-- Trade offs and dependencies  
-- Confidence levels  
-- Now / next / later priorities  
+The **Leadership Action Box** distils insights into what leaders need to steer the system:
 
-In a federated system, this is crucial because value depends on decisions across many teams, not just the data function.
+- essential decisions  
+- trade-offs and dependencies  
+- confidence levels  
+- now / next / later priorities  
 
-It also **makes early change visible**, which is often what shifts mindsets, builds support and accelerates change.
+It also **makes early change visible** — often the key trigger for building confidence, shifting mindsets and accelerating organisational change.
+
+---
+
+### **3.2 What ValueLine needs from leaders**
+
+ValueLine only works when leaders act on what it surfaces.  
+This typically requires:
+
+- clear ownership of data domains and standards  
+- prioritising shared foundations over local optimisation  
+- timely resolution of cross-team dependencies  
+- aligned resources for Level 1 and Level 2 work  
+- consistent reinforcement of reuse, interoperability and evidence-led decisions  
+
+Without these leadership behaviours, foundations stall and outcomes lag — regardless of technical effort.
 
 ---
 
@@ -169,31 +179,15 @@ It also **makes early change visible**, which is often what shifts mindsets, bui
 
 ValueLine works because it:
 
-- Reflects how federated organisations actually operate  
-- Clarifies contribution vs attribution  
-- Sets realistic expectations on pacing  
-- Makes invisible value visible  
-- Focuses attention on the shifts that matter most  
-- Rrduces misaligned effort and improve collaboration 
+- reflects how federated organisations actually operate  
+- clarifies contribution vs attribution  
+- sets realistic expectations on pacing  
+- makes invisible value visible  
+- focuses attention on the shifts that matter most  
+- reduces misaligned effort and strengthens collaboration  
 
-Most importantly, it keeps strategy **alive**.
-
-By connecting strategy to real time updates of change, ValueLine prevents strategy becoming shelfware.  
-It becomes a living tool for action, alignment and collaboration.
-
----
-
-## 4.1 What this model requires from leaders
-
-ValueLine only works when leaders act on what it surfaces. This can mean:
-
-- Sponsoring ownership of data domains and standards  
-- Prioritising shared foundations over local optimisation  
-- Providing resolution of cross team dependencies
-- Agreeing aligned budgets and resources for Level 1 and Level 2 work  
-- Consistently reinforcing reuse, interoperability and evidence led decisions  
-
-Without these leadership actions, foundations stall and outcomes lag — regardless of technical effort.
+Most importantly, it keeps strategy **alive**.  
+By showing emerging signals of change, ValueLine prevents strategy becoming shelfware and turns it into a living tool for alignment and action.
 
 ---
 
@@ -201,28 +195,28 @@ Without these leadership actions, foundations stall and outcomes lag — regardl
 
 ValueLine helps teams:
 
-- Explain data strategy impact clearly and credibly  
-- Engage leaders with realistic pacing and evidence  
-- Decide whether to prioritise foundations or maturity  
-- Align directorates and ALBs without league tables  
+- explain data strategy impact clearly and credibly  
+- engage leaders with realistic pacing and evidence  
+- prioritise foundations vs maturity work  
+- align directorates and ALBs without league tables  
 
 Useful for:
 
 - CDO and data leadership teams  
 - PMO, governance and portfolio groups  
-- Strategy, policy and finance partners  
-- Change and benefit managment teams  
+- strategy, policy and finance partners  
+- change, performance and benefits teams  
 
 ---
 
 ## 6. What this repository includes
 
 - HTML conceptual dashboard  
-- Methodology notes, metric catalogue  
+- methodology notes, metric catalogue  
 - Excel input template  
 - PowerPoint generator  
-- Lighttouch architecture notes  
-- Synthetic example datasets  
+- light-touch architecture notes  
+- synthetic datasets  
 
 ---
 
@@ -238,12 +232,12 @@ Useful for:
 
 ## 8. Limitations
 
-- Synthetic data only  
-- Not a scorecard or benchmark  
-- Attribution remains approximate  
-- Evidence quality improves over time  
-- Outcomes lag, sometimes by years  
-- Maturiry scores are directional  
+- synthetic data only  
+- not a scorecard or benchmark  
+- attribution remains approximate  
+- evidence quality improves over time  
+- outcomes lag  
+- maturity scores are directional  
 
 Use alongside your own evidence, governance and judgement.
 
@@ -265,20 +259,22 @@ Attribution is optional but appreciated.
 
 Across federated teams and dozens of data strategies, I kept seeing the same pattern:
 
-- Strong foundational work  
-- Unclead value story  
-- Drifting expectations  
-- Late value signals  
-- Weak connection between foundations, maturity and outcomes  
+- strong foundational work  
+- unclear value story  
+- drifting expectations  
+- late value signals  
+- weak connection between foundations, maturity and outcomes  
 
-ValueLine is my way of making that connection clearer and more usable.
+ValueLine is my way of making that connection clearer and more usable, shaped through trial and error, reflection and generous guidance from colleagues.
 
-If it helps teams focus on what matters and communicate impact with more confidence, it will have done its job.
+If it helps teams focus on what matters and communicate impact with greater confidence, it will have done its job.
 
-**Bandhu P. Das**
+If useful, here is a short talk where I share some of the thinking that influenced this model:
 
 <p align="center">
   <a href="https://www.brighttalk.com/webcast/12405/602410" target="_blank">
-    <img src="https://img.shields.io/badge/Talk-Unlocking%20the%20Value%20of%20Data-blue?style=flat-square" alt="Watch my 2023 DAMA UK Talk: Unlocking the Value of Data" />
+    <img src="https://img.shields.io/badge/Talk-Explaining%20Data%20Value-blue?style=flat-square" alt="Talk: Unlocking the Value of Data" />
   </a>
 </p>
+
+**Bandhu P. Das**
