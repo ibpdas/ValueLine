@@ -37,7 +37,7 @@ Foundational activities are essential, yet their contribution to maturity, behav
 
 This creates unclear expectations, late value signals and inconsistent support.
 
-**ValueLine** gives a clear, plain-English line of sight from foundations → maturity → outcomes.  
+**ValueLine** gives a clear, plain English line of sight from **foundations → maturity → outcomes**.  
 
 It shows what’s changing, why different results move at different speeds, and what leaders need to focus on now, next and later.
 
@@ -77,10 +77,21 @@ This helps leaders understand:
 - where dependencies and decisions sit  
 - how different results move at different speeds  
 
-### What ValueLine is (and isn’t)
+### ❗ What ValueLine isn’t
 
-A **causal explanation and decision tool**, not a benchmark or capability model.  
-It complements existing frameworks by explaining **how value actually flows** in a federated environment.
+To avoid confusion, ValueLine is **not**:
+
+- a data valuation framework  
+- a capability or maturity model (e.g., DAMA, DCAM)  
+- a regulatory or compliance scorecard    
+- a substitute for technical standards, governance or assurance  
+
+ValueLine does **not** estimate financial, social or economic value.  
+
+It does **not** audit capability or assign scores.
+
+Its purpose is simpler:  
+**to accelerate path to value by explaining how foundational work leads to maturity, behaviour change and outcomes in federated organisations.**
 
 ---
 
