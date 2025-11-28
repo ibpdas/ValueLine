@@ -45,6 +45,7 @@ It turns data strategy into something *live and usable* — surfacing early sign
 ## 1. What problem this model solves
 
 In federated organisations, no single team controls the full data value chain.  
+
 This creates persistent challenges:
 
 - **Unclear attribution** between foundational work and outcomes  
@@ -53,11 +54,12 @@ This creates persistent challenges:
 
 When the line of sight is weak, organisations:
 
-- focus effort in the wrong places  
-- misread progress  
-- invest without addressing root causes  
-- create short-term fixes that become long-term bottlenecks  
-- experience delayed or diluted impact  
+- Focus effort in the wrong places  
+- Misread progress  
+- Invest without addressing root causes  
+- Create short term fixes that become long term bottlenecks  
+- Experience delayed or diluted impact
+- Struggle to scale beyond pilots
 
 ### How ValueLine addresses this
 
@@ -69,10 +71,10 @@ ValueLine breaks the journey into three causal levels:
 
 This helps leaders understand:
 
-- what unlocks value now vs later  
-- why early signals matter even when outcomes lag  
-- where dependencies and decisions sit  
-- how different results move at different speeds  
+- What unlocks value now vs later  
+- Why early signals matter even when outcomes lag  
+- Where dependencies and decisions sit  
+- How different results move at different speeds  
 
 ---
 
@@ -217,7 +219,7 @@ The **Executive Decision Box** distils what leaders need to steer the system:
 - confidence levels  
 - now / next / later priorities  
 
-It makes early change visible — a key trigger for confidence and alignment.
+> It makes early change visible, a key trigger for confidence and alignment.
 
 ### 3.2 What ValueLine requires from leaders
 
@@ -229,22 +231,44 @@ ValueLine works when leaders:
 - retire duplicative tools when common capabilities exist  
 - reinforce evidence informed decisions and reuse  
 
-Without these behaviours, foundations stall and outcomes lag.
-
 ---
 
 ## 4. Why this model works
 
-ValueLine works because it:
+ValueLine works because it reflects how change actually happens in complex public sector systems.  
 
-- reflects how federated organisations operate  
-- clarifies contribution vs attribution  
-- sets realistic expectations on pacing  
-- makes early signals visible  
-- focuses attention on the shifts that matter  
-- reduces misalignment and strengthens collaboration  
+It clarifies contribution, sets realistic expectations and makes early signals visible — all of which are essential in federated organisations where no single team controls the whole value chain.
 
-By connecting foundations → maturity → outcomes, it turns strategy into a living tool rather than shelfware.
+It works by:
+
+- grounding progress in **shifts**, not scores  
+- linking foundations → maturity → outcomes with a clean causal chain  
+- showing **early signs** of value before outcomes appear  
+- reducing misaligned effort and duplicated activity  
+- creating a shared language that strengthens collaboration across teams  
+
+Most importantly, it keeps strategy **alive**.  
+
+By surfacing early movement and emerging signals, ValueLine prevents strategy from becoming shelfware and turns it into a practical tool for alignment and decision making.
+
+---
+
+### 4.1 Why this matters in federated organisations
+
+Federated organisations rarely move as a single system.  
+Each directorate or ALB operates with its own pressures, timelines and constraints, which makes alignment, pacing and interpretation of progress particularly challenging.
+
+ValueLine helps by creating a shared way to:
+
+- make foundational work visible even when delivered by different teams  
+- spot misaligned or duplicated effort early  
+- connect local wins to organisation-wide outcomes  
+- reduce narrative drift when groups interpret progress differently  
+- keep expectations realistic without slowing ambition  
+
+> In federated systems, the goal is not uniformity, the goal is **coherence**.  
+
+ValueLine provides the structure that makes that possible.
 
 ---
 
@@ -252,13 +276,13 @@ By connecting foundations → maturity → outcomes, it turns strategy into a li
 
 Different groups use the model in different ways depending on what they are accountable for.
 
-| Group | How they use it | What they care about |
+| Users | How they use it | What they care about |
 |-------|-----------------|----------------------|
-| **Executives and senior leaders** | Executive Decision Box and maturity/outcome signals | trade offs, prioritisation, confidence levels, pacing |
-| **CDO and data leadership teams** | Foundations, shifts, sequencing, dependency mapping | alignment, realistic delivery plans, early signals, cross-team clarity |
-| **Portfolio, PMO, finance and benefits teams** | Causal chain, indicators, contribution to impact | investment rationale, duplication, benefits evidence, coherence |
-| **Cross-functional delivery teams** | Shifts + foundations to understand their part in the system | blockers, adoption, dependencies, reuse, interoperability |
-| **ALBs and federated partners** | A consistent view of maturity and outcomes without league tables | autonomy with alignment, shared foundations, transparency, predictable collaboration |
+| **Executives and senior leaders** | Understand root causes, their roles in shifts | Trade offs, prioritisation, impact |
+| **CDO and data leadership teams** | Foundations, shifts, sequencing, dependency mapping | Alignment, realistic delivery plans, early signals, cross team clarity |
+| **Portfolio, PMO, finance and benefits teams** | Causal chain, indicators, contribution to impact | Investment rationale, duplication, benefits evidence |
+| **Cross functional delivery teams** | Understand their part in the system | Blockers, adoption, dependencies, reuse |
+| **ALBs and federated partners** | A consistent view of maturity and outcomes without league tables | Autonomy with alignment, transparency, predictable collaboration |
 
 ---
 
@@ -273,22 +297,6 @@ When running workshops or leadership conversations:
    - “If this bias were present, how would it distort what we are seeing?”  
 
 This keeps conversations grounded and reduces misinterpretation of early signals.
-
----
-
-### Why this matters in federated organisations
-
-Federated organisations rarely move as one system. Each directorate or ALB has its own pressures, timelines and constraints.  
-ValueLine helps by creating a shared way to:
-
-- make foundational work visible even when delivered by different teams  
-- spot misaligned effort early  
-- show how local wins connect to organisation-wide outcomes  
-- reduce narrative drift when different groups interpret progress differently  
-- keep expectations realistic without slowing ambition  
-
-In a federated system, the goal is not uniformity.  
-The goal is **coherence**. ValueLine provides the structure that makes that possible.
 
 ---
 
