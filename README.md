@@ -38,7 +38,7 @@ That leads to misaligned expectations, duplicated effort, slower impact and resu
 
 > ValueLine brings together a causal model, a delivery focussed dashboard and a lightweight methodology to show where value is emerging, how maturity is shifting and where leadership action is needed to accelerate the path to impact.
 
-It makes data strategy practical and trackable, surfacing early signals and keeping federated teams aligned around a shared picture of progress.
+It turns data strategy alive and actionable, surfacing early signals and keeping federated teams aligned around a shared picture of progress.
 
 
 ---
