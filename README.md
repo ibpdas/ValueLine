@@ -12,7 +12,7 @@ A simple, practical model for showing how foundational data work turns into matu
 
 ---
 
-## 🧭 Quick navigation
+## Quick navigation
 
 - [Concept in 30 seconds](#concept-in-30-seconds)
 - [1. What problem this model solves](#1-what-problem-this-model-solves)
