@@ -7,7 +7,7 @@
 <h1 align="center">ValueLine: A Clearer Line of Sight from Data to Impact</h1>
 
 <p align="center">
-A simple, practical model for showing how foundational data work turns into maturity, behaviour change and real organisational value.
+ValueLine is a practical methodology, framing tool and dashboard that gives data teams a clearer line of sight from data to impact and accelerates progress where it matters most
 </p>
 
 ---
