@@ -146,6 +146,20 @@ ValueLine uses a mixed evidence approach:
 
 ---
 
+### 2.5 Bias prompts for interpretation
+
+The dashboard includes a small set of **bias prompt cards**. These are not a full catalogue of cognitive biases, but simple reminders used when:
+
+- interpreting maturity scores  
+- choosing which ValueLine shifts to prioritise  
+- framing trade offs in the Executive Decision Box  
+
+Examples include the cobra effect, Goodhart's law, availability bias, present bias, sunk cost fallacy and optimism bias.  
+
+Their aim is to make judgement risks visible and discussable, so that decisions about investment, sequencing and evidence are more grounded and transparent.
+
+---
+
 ## 3. Leadership value & responsibilities
 
 ### **3.1 What leaders get from ValueLine**
@@ -193,29 +207,25 @@ By showing emerging signals of change, ValueLine prevents strategy becoming shel
 
 ## 5. How to use the model in practice
 
-ValueLine helps teams:
+When using the dashboard in workshops or leadership sessions:
 
-- explain data strategy impact clearly and credibly  
-- engage leaders with realistic pacing and evidence  
-- prioritise foundations vs maturity work  
-- align directorates and ALBs without league tables  
+- start with the high level story (Levels 1, 2, 3)  
+- walk through the Leadership Actions in _Executive Decision Box_  
+- then use the **bias prompt cards** as a short pause point:  
+  - "If this bias were present here, how would it distort what we see or what we plan to do next?"  
 
-Useful for:
-
-- CDO and data leadership teams  
-- PMO, governance and portfolio groups  
-- strategy, policy and finance partners  
-- change, performance and benefits teams  
+This keeps the conversation practical while creating a small habit of decision hygiene around data strategy choices.
 
 ---
 
 ## 6. What this repository includes
 
 - HTML conceptual dashboard  
-- methodology notes, metric catalogue  
+- methodology notes and metric catalogue  
+- bias and decision hygiene prompt cards
 - Excel input template  
 - PowerPoint generator  
-- light-touch architecture notes  
+- light touch architecture notes  
 - synthetic datasets  
 
 ---
