@@ -51,7 +51,7 @@ It brings together three integrated components:
 
 - a **strategic logic model** — showing how foundations strengthen maturity and enable outcomes  
 - a **prioritisation & diagnostic framework** — identifying the shifts that truly unlock progress  
-- a **performance & learning dashboard model** — using mixed evidence to build a credible value narrative  
+- a **performance & learning dashboard** — using mixed evidence to build a credible value narrative  
 
 Together, these create a clearer line of sight from foundational activity to practical impact — helping leaders focus on what matters most, at the right time, with shared confidence.
 
@@ -146,7 +146,7 @@ This prevents premature pressure on outcomes before the system is ready.
 
 ---
 
-## 2.3 Performance & learning dashboard model  
+## 2.3 Performance & learning dashboard  
 ### *Measure what matters, credibly*
 
 ValueLine uses **mixed method evidence** to tell a rounded, reliable story of progress.
