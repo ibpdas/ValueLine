@@ -123,7 +123,7 @@ ValueLine focuses on **shifts**, not maturity scores.
 - **Community** — pockets of innovation → shared practice, knowledge exchange and reusable assets  
 - **Engagement** — ad hoc conversations → ongoing, structured cross functional engagement  
 
-### **Level 2 — Maturity shifts (aligned to data maturity themes)**
+### **Level 2 — Maturity shifts (aligned to 2023 Government Data Maturity themes)**
 
 - **Uses** — reactive reporting → proactive, integrated use of data in decisions  
 - **Data** — inconsistent, siloed → coherent, reusable and interoperable  
@@ -231,11 +231,9 @@ ValueLine provides the structure that makes it possible.
 
 # 6. Status
 
-- ✅ Strategic logic model  
-- ✅ Conceptual dashboard  
-- 🟡 Diagnostic templates (MVP)  
-- 🟡 Performance narrative templates (MVP)  
-- 🟡 Excel & PowerPoint tools (draft)  
+- ✅ Theory of change, metrics catalogue, bias prompt
+- ✅ HTML proof of concept dashboard  
+- 🟡 Excel & PowerPoint template (MVP)  
 - ⬜ Streamlit prototype (planned)  
 
 ---
@@ -276,9 +274,7 @@ I built ValueLine after years of working with federated teams where the same pat
 
 I found myself repeatedly sketching the same logic on whiteboards — foundations, maturity, outcomes — and using it to explain why progress felt slow in some places and fast in others.
 
-ValueLine started as a way to make those conversations clearer and fairer.  
-
-It is my attempt to give data leaders, analysts and decision makers a shared, honest model for talking about **where value really comes from**, what is blocking it, and how to move faster.
+ValueLine started as a way to make those conversations clearer and fairer.
 
 <p align="center">
   <a href="https://www.brighttalk.com/webcast/12405/602410" target="_blank">
