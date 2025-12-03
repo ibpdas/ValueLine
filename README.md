@@ -27,11 +27,10 @@ A unified model for public sector data leaders to align strategy, diagnose progr
 - [3. Leadership value & responsibilities](#3-leadership-value--responsibilities)
 - [4. Why ValueLine works](#4-why-valueline-works)
 - [5. How to use the model](#5-how-to-use-the-model)
-- [6. Repository structure](#6-repository-structure)
-- [7. Status](#7-status)
-- [8. Limitations](#8-limitations)
-- [9. Contributing](#9-contributing)
-- [10. Why I created ValueLine](#10-why-i-created-valueline)
+- [6. Status](#6-status)
+- [7. Limitations](#7-limitations)
+- [8. Contributing](#8-contributing)
+- [9. Why I created ValueLine](#9-why-i-created-valueline)
 
 ---
 
@@ -64,6 +63,7 @@ Together, these create a clearer line of sight from foundational activity to pra
 # 1. The problem ValueLine solves
 
 In federated organisations, leadership ambition is high but ownership is distributed.  
+
 No single team controls the full data value chain, which creates persistent challenges:
 
 - unclear attribution between work and outcomes  
@@ -113,19 +113,34 @@ A simple chain — **foundations → maturity → outcomes** — creates shared 
 
 This component identifies **where the system is moving**, **why**, and **what actions unlock the most value**.
 
-### **Shifts — early signs of meaningful progress**
 ValueLine focuses on **shifts**, not maturity scores.
 
-**Foundational shifts (Level 1)**  
-Strategy, leadership, platforms & standards, communities, engagement.
+### **Level 1 — Foundational enabler shifts**
 
-**Maturity shifts (Level 2)**  
-Uses, data, leadership, culture, tools, skills.
+- **Strategy** — isolated initiatives → shared, cross-cutting priorities  
+- **Leadership** — “their data problem” → shared ownership and accountability  
+- **Platforms & standards** — fragmented local fixes → common, reusable platforms and standards  
+- **Community** — pockets of innovation → shared practice, knowledge exchange and reusable assets  
+- **Engagement** — ad hoc conversations → ongoing, structured cross functional engagement  
 
-**Outcome shifts (Level 3)**  
-Efficiency, satisfaction, optimisation, contribution to public good.
+### **Level 2 — Maturity shifts (aligned to data maturity themes)**
+
+- **Uses** — reactive reporting → proactive, integrated use of data in decisions  
+- **Data** — inconsistent, siloed → coherent, reusable and interoperable  
+- **Leadership** — passive awareness → active sponsorship and clear expectations  
+- **Culture** — low confidence → everyday, confident data-informed decisions  
+- **Tools** — fragmented, hard to find → discoverable, integrated and self-service  
+- **Skills** — pockets of expertise → widespread literacy and continuous learning  
+
+### **Level 3 — Outcome & impact shifts**
+
+- **Efficiency** — isolated wins → organisation wide time, cost and effort savings  
+- **Experience** — anecdotal satisfaction → measurable improvements for users and colleagues  
+- **Optimisation** — task level tweaks → end to end service and process optimisation  
+- **Public good** — occasional impact stories → clear, sustained contribution to policy and services  
 
 ### **Indicators — understand pacing**
+
 - **Leading indicators** — earliest signs foundations are forming  
 - **Signal indicators** — behavioural and cultural changes  
 - **Lagging indicators** — measurable public value  
@@ -157,7 +172,7 @@ Mixed evidence reduces fragility and builds leadership confidence.
 - a clear causal view of progress and blockers  
 - better prioritisation  
 - early signals of value  
-- structured trade-offs  
+- structured trade offs  
 - alignment across federated teams  
 
 ### **What ValueLine requires from leaders**
@@ -214,18 +229,7 @@ ValueLine provides the structure that makes it possible.
 
 ---
 
-# 6. Repository structure
-
-- `dashboard/` — Conceptual HTML dashboard  
-- `methods/` — Methodology notes  
-- `metrics/` — Metric catalogue  
-- `bias-prompts/` — Bias prompt cards  
-- `templates/` — Excel input template, PPT generator  
-- `data/` — Synthetic datasets  
-
----
-
-# 7. Status
+# 6. Status
 
 - ✅ Strategic logic model  
 - ✅ Conceptual dashboard  
@@ -236,7 +240,7 @@ ValueLine provides the structure that makes it possible.
 
 ---
 
-# 8. Limitations
+# 7. Limitations
 
 ValueLine has important constraints:
 
@@ -250,7 +254,7 @@ Use alongside judgement, governance and expertise.
 
 ---
 
-# 9. Contributing
+# 8. Contributing
 
 You are welcome to:
 
@@ -262,17 +266,19 @@ Attribution appreciated.
 
 ---
 
-# 10. Why I created ValueLine
+# 9. Why I created ValueLine
 
-Across multiple data strategies and federated teams, I kept seeing the same pattern:
+I built ValueLine after years of working with federated teams where the same pattern kept appearing:
 
-- strong foundational work  
-- unclear or delayed value signals  
-- misaligned expectations  
-- uneven maturity  
-- fragmented narratives  
+- people were doing serious, thoughtful foundational work  
+- leaders were under pressure to show outcomes quickly  
+- the story between the two was messy, late or missing  
 
-**ValueLine exists to make the connection between foundations, maturity and outcomes clearer, earlier and more actionable.**
+I found myself repeatedly sketching the same logic on whiteboards — foundations, maturity, outcomes — and using it to explain why progress felt slow in some places and fast in others.
+
+ValueLine started as a way to make those conversations clearer and fairer.  
+
+It is my attempt to give data leaders, analysts and decision makers a shared, honest model for talking about **where value really comes from**, what is blocking it, and how to move faster.
 
 <p align="center">
   <a href="https://www.brighttalk.com/webcast/12405/602410" target="_blank">
