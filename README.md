@@ -266,20 +266,16 @@ Attribution appreciated.
 
 # 9. Why I created ValueLine
 
-I built ValueLine after years of working with federated teams where the same pattern kept appearing:
+I created ValueLine after seeing the same pattern across federated teams: strong foundational work, high ambition, but an unclear connection between effort and outcomes. The value story was often late, uneven or difficult to explain.
 
-- people were doing serious, thoughtful foundational work  
-- leaders were under pressure to show outcomes quickly  
-- the story between the two was messy, late or missing  
+ValueLine distils the simple logic I kept drawing on whiteboards — foundations, maturity, outcomes — into a clearer way to understand progress and focus attention where it matters most.
 
-I found myself repeatedly sketching the same logic on whiteboards — foundations, maturity, outcomes — and using it to explain why progress felt slow in some places and fast in others.
+If it helps even one leader see their system more clearly, or one team feel more confident in the value of their work, it will have done its job. I share it openly so others can refine it and shape it for the wider community.
 
-ValueLine started as a way to make those conversations clearer and fairer.
+**Bandhu P. Das**
 
 <p align="center">
   <a href="https://www.brighttalk.com/webcast/12405/602410" target="_blank">
     <img src="https://img.shields.io/badge/Talk-Explaining%20Data%20Value-blue?style=flat-square" alt="Talk: Explaining Data Value" />
   </a>
 </p>
-
-**Bandhu P. Das**
